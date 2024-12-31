@@ -1,0 +1,73 @@
+contestId,contestName,handle,rank,ratingUpdateTimeSeconds,oldRating,newRating
+1790,Codeforces Round 847 (Div. 3),sha7dow,1731,1674838200,0,540
+1791,Codeforces Round 849 (Div. 4),sha7dow,7832,1675443600,540,806
+1800,Codeforces Round 855 (Div. 3),sha7dow,2193,1677775800,806,1083
+1807,Codeforces Round 859 (Div. 4),sha7dow,1184,1679245800,1083,1269
+1811,Codeforces Round 863 (Div. 3),sha7dow,1944,1680627000,1269,1391
+1797,Codeforces Round 864 (Div. 2),sha7dow,2640,1680969900,1391,1439
+1816,Codeforces Round 865 (Div. 2),sha7dow,1627,1681059600,1439,1471
+1820,Codeforces Round 866 (Div. 2),sha7dow,331,1681556700,1471,1591
+1821,Educational Codeforces Round 147 (Rated for Div. 2),sha7dow,2226,1682008500,1591,1560
+1822,Codeforces Round 867 (Div. 3),sha7dow,606,1682355000,1560,1590
+1823,Codeforces Round 868 (Div. 2),sha7dow,1891,1682613300,1590,1565
+1818,Codeforces Round 869 (Div. 2),sha7dow,1582,1682787000,1565,1552
+1825,Codeforces Round 872 (Div. 2),sha7dow,472,1683554700,1552,1631
+1832,Educational Codeforces Round 148 (Rated for Div. 2),sha7dow,1520,1683909300,1631,1632
+1828,Codeforces Round 873 (Div. 2),sha7dow,248,1684082100,1632,1729
+1837,Educational Codeforces Round 149 (Rated for Div. 2),sha7dow,1487,1685032500,1729,1716
+1831,Codeforces Round 875 (Div. 2),sha7dow,1952,1685293500,1716,1678
+1839,Codeforces Round 876 (Div. 2),sha7dow,838,1685810100,1678,1705
+1834,Codeforces Round 879 (Div. 2),sha7dow,2082,1687082700,1705,1658
+1845,Educational Codeforces Round 151 (Rated for Div. 2),sha7dow,1604,1688056500,1658,1663
+1847,Codeforces Round 882 (Div. 2),sha7dow,502,1688662200,1663,1748
+1844,Codeforces Round 884 (Div. 1 + Div. 2),sha7dow,1589,1689096900,1748,1767
+1848,Codeforces Round 885 (Div. 2),sha7dow,693,1689525300,1767,1798
+1853,Codeforces Round 887 (Div. 2),sha7dow,1388,1690131900,1798,1766
+1849,Educational Codeforces Round 152 (Rated for Div. 2),sha7dow,296,1690475700,1766,1853
+1855,Codeforces Round 889 (Div. 2),sha7dow,30,1690650300,1853,2012
+1856,Codeforces Round 890 (Div. 2) supported by Constructor Institute,sha7dow,740,1691253300,2012,1986
+1859,Codeforces Round 892 (Div. 2),sha7dow,237,1691858100,1986,2032
+1858,Codeforces Round 893 (Div. 2),sha7dow,816,1692117300,2032,1997
+1860,Educational Codeforces Round 153 (Rated for Div. 2),sha7dow,444,1692290100,1997,2008
+1864,Harbour.Space Scholarship Contest 2023-2024 (Div. 1 + Div. 2),sha7dow,1029,1693071300,2008,2003
+1863,Pinely Round 2 (Div. 1 + Div. 2),sha7dow,763,1693416900,2003,2027
+1861,Educational Codeforces Round 154 (Rated for Div. 2),sha7dow,673,1693499700,2027,2002
+1868,Codeforces Round 896 (Div. 1),sha7dow,736,1694363700,2002,1966
+1867,Codeforces Round 897 (Div. 2),sha7dow,717,1694450100,1966,1952
+1870,"CodeTON Round 6 (Div. 1 + Div. 2, Rated, Prizes!)",sha7dow,1301,1695055800,1952,1945
+1879,Educational Codeforces Round 155 (Rated for Div. 2),sha7dow,395,1695573300,1945,1973
+1882,Codeforces Round 899 (Div. 2),sha7dow,1359,1695659700,1973,1920
+1874,Codeforces Round 901 (Div. 1),sha7dow,575,1696095300,1920,1964
+1886,Educational Codeforces Round 156 (Rated for Div. 2),sha7dow,528,1696869300,1964,1970
+1889,Codeforces Round 906 (Div. 1),sha7dow,817,1698512700,1970,1897
+1891,Codeforces Round 907 (Div. 2),sha7dow,467,1698683700,1897,1922
+1901,Educational Codeforces Round 158 (Rated for Div. 2),sha7dow,154,1700843700,1922,1998
+1896,"CodeTON Round 7 (Div. 1 + Div. 2, Rated, Prizes!)",sha7dow,477,1700932800,1998,2060
+1902,Educational Codeforces Round 159 (Rated for Div. 2),sha7dow,78,1701621300,2060,2124
+1909,Pinely Round 3 (Div. 1 + Div. 2),sha7dow,1187,1703352900,2124,2075
+1917,Codeforces Round 917 (Div. 2),sha7dow,332,1703435700,2075,2075
+1920,Codeforces Round 919 (Div. 2),sha7dow,1227,1705163700,2075,2005
+1924,Codeforces Round 921 (Div. 1),sha7dow,612,1706373900,2005,2004
+1918,Codeforces Round 922 (Div. 2),sha7dow,156,1706633100,2004,2065
+1930,think-cell Round 1,sha7dow,422,1708191300,2065,2122
+1936,Codeforces Round 930 (Div. 1),sha7dow,288,1709224500,2122,2167
+1943,Codeforces Round 934 (Div. 1),sha7dow,776,1710608400,2167,2113
+1942,"CodeTON Round 8 (Div. 1 + Div. 2, Rated, Prizes!)",sha7dow,913,1711820100,2113,2099
+1951,Codeforces Global Round 25,sha7dow,1827,1712424900,2099,2023
+1954,Educational Codeforces Round 164 (Rated for Div. 2),sha7dow,59,1712939700,2023,2134
+1956,Codeforces Round 939 (Div. 2),sha7dow,119,1713026100,2134,2175
+1965,Codeforces Round 941 (Div. 1),sha7dow,807,1714235700,2175,2118
+1967,Codeforces Round 942 (Div. 1),sha7dow,841,1714496700,2118,2058
+1973,Codeforces Round 945 (Div. 2),sha7dow,465,1715963700,2058,2046
+1976,Educational Codeforces Round 166 (Rated for Div. 2),sha7dow,52,1717086900,2046,2157
+1984,Codeforces Global Round 26,sha7dow,543,1717954500,2157,2178
+1987,EPIC Institute of Technology Round Summer 2024 (Div. 1 + Div. 2),sha7dow,342,1719768900,2178,2222
+1994,Codeforces Round 959 sponsored by NEAR (Div. 1 + Div. 2),sha7dow,1271,1721320500,2222,2154
+1991,Pinely Round 4 (Div. 1 + Div. 2),sha7dow,535,1722188100,2154,2183
+2002,EPIC Institute of Technology Round August 2024 (Div. 1 + Div. 2),sha7dow,637,1723397700,2183,2190
+2006,Codeforces Round 969 (Div. 1),sha7dow,610,1725037500,2190,2155
+2018,Codeforces Round 975 (Div. 1),sha7dow,462,1727453100,2155,2171
+2035,Codeforces Global Round 27,sha7dow,428,1730050500,2171,2206
+2034,"Rayan Programming Contest 2024 - Selection (Codeforces Round 989, Div. 1 + Div. 2)",sha7dow,856,1732988100,2206,2174
+2046,Codeforces Round 990 (Div. 1),sha7dow,564,1733214300,2174,2110
+2048,Codeforces Global Round 28,sha7dow,1046,1734629700,2110,2083

@@ -1,0 +1,52 @@
+1.项目说明：
+    本项目主要对codeforces上面的一些数据进行可视化，列如用户数据、问题集数据、用户行为数据等进行可视化分析。这里数据通过调用codeforces的API进行获取，
+    比如想获取一个用户提交数据，则通过用户昵称从codeforces上获得数据。  
+2.主要函数介绍：  
+    getUserRatingUrl ：获得用户比赛数据的url  
+    writeJsonToFile ：将request获得的json数据写入文件  
+    strToDict ：字符串数据转字典  
+    changeJsonToCsv ：将Json文件转为csv文件  
+    getUserRatingData : 通过url获取用户比赛数据  
+    getUserPhoto ：获取用户头像  
+    strToList ：字符串转列表（"[a,b,c]"->[a,b,c]）  
+    GetAllUserRating : 同时获取多个用户比赛数据  
+    showAllUserRating ：展示多个用户rating变化   
+    showRatingChange ：展示单个用户rating变化  
+    getProData : 获取问题集数据  
+    showAllProblemRatingDis ：可视化codeforces的问题难度分布  
+    showInfoProblemLabels ：可视化不同标签题目的数量和平均难度  
+    getAllUserInfo ：获取所有用户基本信息  
+    showAllUserCountry ：展示用户所处国家情况  
+    showTop20MostFriend ：展示朋友数最多的20位用户  
+    showTop20HighRating ：展示rating最高的20位用户  
+    showAllUserRatingDist ：可视化全球Rating分布  
+    getSubmissionUrl ：获取用户提交数据url  
+    getSubInfo ：获取用户提交数据  
+    showUserSubRecent ：用户最近时间提交数据可视化
+    getComment ：获取特定blog评论数据
+    _commentEmotionAna ：评论情感分析可视化
+    showHackOfContest ：展示hack数据
+3.运行环境：
+    解释器：
+    Python 3.11.9
+    主要的python包：
+    asttokens          3.0.0
+    ipykernel          6.29.5
+    ipython            8.30.0
+    jedi               0.19.2
+    Jinja2             3.1.4
+    jupyter_client     8.6.3
+    jupyter_core       5.7.2
+    matplotlib         3.10.0
+    matplotlib-inline  0.1.7
+    numpy              2.2.0
+    pandas             2.2.3
+    pyecharts          2.0.7
+    requests           2.32.3
+    scipy              1.14.1
+    seaborn            0.13.2
+    wcwidth            0.2.13
+    wordcloud          1.9.4
+    nltk               3.9.1
+    beautifulsoup4     4.12.3
+    bs4                0.0.2

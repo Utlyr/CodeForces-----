@@ -1,0 +1,31 @@
+contestId,contestName,handle,rank,ratingUpdateTimeSeconds,oldRating,newRating
+1968,Codeforces Round 943 (Div. 3),FXLY_awa,2509,1714669200,0,520
+1971,Codeforces Round 944 (Div. 4),FXLY_awa,4345,1715359800,520,831
+1973,Codeforces Round 945 (Div. 2),FXLY_awa,3720,1715963700,831,1159
+1977,Codeforces Round 948 (Div. 2),FXLY_awa,6999,1716741300,1159,1243
+1976,Educational Codeforces Round 166 (Rated for Div. 2),FXLY_awa,5095,1717086900,1243,1339
+1981,Codeforces Round 949 (Div. 2),FXLY_awa,4345,1717157100,1339,1368
+1980,Codeforces Round 950 (Div. 3),FXLY_awa,1801,1717433400,1368,1431
+1979,Codeforces Round 951 (Div. 2),FXLY_awa,5629,1717691700,1431,1411
+1989,Educational Codeforces Round 167 (Rated for Div. 2),FXLY_awa,3457,1719506100,1411,1433
+1983,Codeforces Round 956 (Div. 2) and ByteRace 2024,FXLY_awa,1906,1720371000,1433,1503
+1988,Codeforces Round 958 (Div. 2),FXLY_awa,5222,1721061300,1503,1466
+1995,Codeforces Round 961 (Div. 2),FXLY_awa,1711,1721752500,1466,1528
+1997,Educational Codeforces Round 168 (Rated for Div. 2),FXLY_awa,3958,1722357300,1528,1527
+1993,Codeforces Round 963 (Div. 2),FXLY_awa,3047,1722789300,1527,1540
+1998,Codeforces Round 965 (Div. 2),FXLY_awa,3108,1723307700,1540,1549
+2000,Codeforces Round 966 (Div. 3),FXLY_awa,1750,1723568100,1549,1567
+2004,Educational Codeforces Round 169 (Rated for Div. 2),FXLY_awa,4746,1723739700,1567,1538
+2001,Codeforces Round 967 (Div. 2),FXLY_awa,3149,1724171700,1538,1543
+2003,Codeforces Round 968 (Div. 2),FXLY_awa,615,1724603700,1543,1665
+2007,Codeforces Round 969 (Div. 2),FXLY_awa,1164,1725037500,1665,1688
+2019,Codeforces Round 975 (Div. 2),FXLY_awa,577,1727453100,1688,1747
+2021,"Codeforces Round 977 (Div. 2, based on COMPFEST 16 - Final Round)",FXLY_awa,2203,1728201900,1747,1708
+2030,Codeforces Round 979 (Div. 2),FXLY_awa,2554,1729354800,1708,1673
+2024,Codeforces Round 980 (Div. 2),FXLY_awa,491,1729422300,1673,1734
+2027,Codeforces Round 982 (Div. 2),FXLY_awa,409,1729960500,1734,1805
+2026,Educational Codeforces Round 171 (Rated for Div. 2),FXLY_awa,376,1730133300,1805,1881
+2032,Codeforces Round 983 (Div. 2),FXLY_awa,438,1730478900,1881,1922
+2029,Refact.ai Match 1 (Codeforces Round 985),FXLY_awa,726,1731173700,1922,1970
+2039,"CodeTON Round 9 (Div. 1 + Div. 2, Rated, Prizes!)",FXLY_awa,940,1732383300,1970,1991
+2034,"Rayan Programming Contest 2024 - Selection (Codeforces Round 989, Div. 1 + Div. 2)",FXLY_awa,1273,1732988100,1991,1972

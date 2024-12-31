@@ -1,0 +1,39 @@
+contestId,contestName,handle,rank,ratingUpdateTimeSeconds,oldRating,newRating
+1971,Codeforces Round 944 (Div. 4),Jiangnan111,2860,1715359800,0,508
+1973,Codeforces Round 945 (Div. 2),Jiangnan111,11509,1715963700,508,855
+1974,Codeforces Round 946 (Div. 3),Jiangnan111,7003,1716223800,855,1107
+1975,Codeforces Round 947 (Div. 1 + Div. 2),Jiangnan111,5093,1716658500,1107,1234
+1976,Educational Codeforces Round 166 (Rated for Div. 2),Jiangnan111,6763,1717086900,1234,1306
+1981,Codeforces Round 949 (Div. 2),Jiangnan111,3008,1717157100,1306,1380
+1980,Codeforces Round 950 (Div. 3),Jiangnan111,2162,1717433400,1380,1428
+1979,Codeforces Round 951 (Div. 2),Jiangnan111,2195,1717691700,1428,1488
+1984,Codeforces Global Round 26,Jiangnan111,5047,1717954500,1488,1445
+1987,EPIC Institute of Technology Round Summer 2024 (Div. 1 + Div. 2),Jiangnan111,5222,1719768900,1445,1418
+1983,Codeforces Round 956 (Div. 2) and ByteRace 2024,Jiangnan111,3983,1720371000,1418,1429
+1992,Codeforces Round 957 (Div. 3),Jiangnan111,575,1720716600,1429,1536
+1988,Codeforces Round 958 (Div. 2),Jiangnan111,2524,1721061300,1536,1553
+1994,Codeforces Round 959 sponsored by NEAR (Div. 1 + Div. 2),Jiangnan111,2515,1721320500,1553,1585
+1990,Codeforces Round 960 (Div. 2),Jiangnan111,469,1721493300,1585,1710
+1991,Pinely Round 4 (Div. 1 + Div. 2),Jiangnan111,1396,1722188100,1710,1765
+1997,Educational Codeforces Round 168 (Rated for Div. 2),Jiangnan111,2427,1722357300,1765,1742
+1993,Codeforces Round 963 (Div. 2),Jiangnan111,1166,1722789300,1742,1768
+1998,Codeforces Round 965 (Div. 2),Jiangnan111,842,1723307700,1768,1809
+2002,EPIC Institute of Technology Round August 2024 (Div. 1 + Div. 2),Jiangnan111,2215,1723397700,1809,1794
+2004,Educational Codeforces Round 169 (Rated for Div. 2),Jiangnan111,4980,1723739700,1794,1709
+2001,Codeforces Round 967 (Div. 2),Jiangnan111,1480,1724171700,1709,1725
+2003,Codeforces Round 968 (Div. 2),Jiangnan111,2972,1724603700,1725,1686
+2007,Codeforces Round 969 (Div. 2),Jiangnan111,1823,1725037500,1686,1673
+2005,Codeforces Round 972 (Div. 2),Jiangnan111,5935,1726331700,1673,1586
+2014,Codeforces Round 974 (Div. 3),Jiangnan111,287,1726938000,1586,1677
+2019,Codeforces Round 975 (Div. 2),Jiangnan111,835,1727453100,1677,1717
+2021,"Codeforces Round 977 (Div. 2, based on COMPFEST 16 - Final Round)",Jiangnan111,1875,1728201900,1717,1698
+2025,Educational Codeforces Round 170 (Rated for Div. 2),Jiangnan111,1328,1728923700,1698,1720
+2030,Codeforces Round 979 (Div. 2),Jiangnan111,2881,1729354800,1720,1673
+2024,Codeforces Round 980 (Div. 2),Jiangnan111,453,1729422300,1673,1739
+2027,Codeforces Round 982 (Div. 2),Jiangnan111,342,1729960500,1739,1820
+2026,Educational Codeforces Round 171 (Rated for Div. 2),Jiangnan111,330,1730133300,1820,1899
+2029,Refact.ai Match 1 (Codeforces Round 985),Jiangnan111,668,1731173700,1899,1962
+2039,"CodeTON Round 9 (Div. 1 + Div. 2, Rated, Prizes!)",Jiangnan111,950,1732383300,1962,1984
+2034,"Rayan Programming Contest 2024 - Selection (Codeforces Round 989, Div. 1 + Div. 2)",Jiangnan111,1520,1732988100,1984,1949
+2048,Codeforces Global Round 28,Jiangnan111,852,1734629700,1949,1982
+2043,Educational Codeforces Round 173 (Rated for Div. 2),Jiangnan111,340,1735058100,1982,2003
