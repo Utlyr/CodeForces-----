@@ -4,6 +4,8 @@ import matplotlib.pyplot as plt
 import pandas as pd
 import matplotlib.axes
 import networkx as nx
+from pyvis.network import Network
+from math import sqrt
 
 plt.rcParams['font.sans-serif'] = 'kaiti'
 
@@ -104,7 +106,7 @@ def showHackOfContest(id:int):
     plt.show()
 
 def showHackData(id:int):#展示成功Hack数据
-    getHackData(id)
+    #getHackData(id)
     data = pd.read_csv(path+str(id)+".csv")
     data = data[data['verdict']=='HACK_SUCCESSFUL']
     data = data[['hacker','defender']]
@@ -117,9 +119,24 @@ def showHackData(id:int):#展示成功Hack数据
             ret[str1['members'][0]['handle']]=list()
         ret[str1['members'][0]['handle']].append(str2['members'][0]['handle'])
     ret = dict(sorted(ret.items(),key=lambda kv:len(kv[1]),reverse=True))
-    return ret
+    g = Network(height='1000px',width='100%',directed=True)
+    nd = set()
+    hacker = ret.keys()
+    for x in ret.items():
+        nd.add(x[0])
+        for y in x[1]:
+            nd.add(y)
+    for x in nd:
+        if x in hacker:
+            g.add_node(x,color='green',label=x,size=sqrt(len(ret[x])+1)*20)
+        else:
+            g.add_node(x,color='blue',label=x,size=20)
+    for x in ret.items():
+        for y in x[1]:
+            g.add_edge(x[0],y,color='red')
+    g.save_graph('./OutPut/contest{}hack.html'.format(id))
     
     
 
-#showHackOfContest(985)
+showHackData(588)
 #print(showHackData(566))
