@@ -38,3 +38,4 @@ def showAllUserRating(usernamearr:list):
     _showAllUserRating(usernamearr,ax)
     plt.legend()
     plt.show()
+    fig.savefig("./OutPut/AllUserRating.svg")

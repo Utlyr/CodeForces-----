@@ -135,6 +135,7 @@ def ShowInfo(username:str):
     showUserInfo(username,ax1,ax2,ax3)
     plt.tight_layout()
     plt.show()
+    fig.savefig("./OutPut/User_{}_Info.svg".format(username))
 
 #print(time.time())
-#ShowInfo(user_name)
+ShowInfo("Jiangnan111")

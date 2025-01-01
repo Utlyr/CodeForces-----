@@ -50,3 +50,9 @@
     nltk               3.9.1
     beautifulsoup4     4.12.3
     bs4                0.0.2
+    pyvis              0.3.2
+4.文件说明：
+    MulUserRatingData用于存放获取的多个用户的rating变化数据
+    NormalData用于存放获取到的数据
+    UserPhoto用于存放用户头像
+    OutPut用于存放生成的图像

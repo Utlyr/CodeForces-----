@@ -106,5 +106,6 @@ def commentEmotionAna(id:int)->None:
     _commentEmotionAna(id,ax1,ax2,ax3)
     plt.tight_layout()
     plt.show()
+    fig.savefig("./OutPut/Blog{}.svg".format(id))
 
 #commentEmotionAna(135588)

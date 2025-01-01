@@ -58,6 +58,7 @@ def showAllProblemRatingDis(ax:matplotlib.axes._axes.Axes):#可视化codeforces�
     ax.set_xlabel("难度系数",fontsize=15)
     ax.set_title("Codeforces难度系数分布图")
     #data['rating'].plot(kind = 'kde',label = '密度图')
+    plt.savefig("./OutPut/ProblemDis.svg")
 
 #这里最好给一个10x5的画布
 def showInfoProblemLabels(ax:matplotlib.axes._axes.Axes):#可视化不同标签题目的数量和平均难度
@@ -87,6 +88,7 @@ def showInfoProblemLabels(ax:matplotlib.axes._axes.Axes):#可视化不同标签�
     ax1.bar(xl+0.2,avge,width=0.4,color='pink')
     ax1.set_ylabel("平均难度",fontsize=15)
     ax1.tick_params(axis='y',labelcolor='pink')
+    plt.savefig("./OutPut/ProblemLabels.svg")
 
 
 

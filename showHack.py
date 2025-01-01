@@ -5,7 +5,7 @@ import pandas as pd
 import matplotlib.axes
 import networkx as nx
 from pyvis.network import Network
-from math import sqrt
+from math import log2
 
 plt.rcParams['font.sans-serif'] = 'kaiti'
 
@@ -104,9 +104,10 @@ def showHackOfContest(id:int):
     _showHackOfContest(id,ax1,ax2,ax3)
     plt.tight_layout()
     plt.show()
+    fig.savefig("./OutPut/HackOf{}.svg".format(id))
 
 def showHackData(id:int):#展示成功Hack数据
-    #getHackData(id)
+    getHackData(id)
     data = pd.read_csv(path+str(id)+".csv")
     data = data[data['verdict']=='HACK_SUCCESSFUL']
     data = data[['hacker','defender']]
@@ -128,7 +129,7 @@ def showHackData(id:int):#展示成功Hack数据
             nd.add(y)
     for x in nd:
         if x in hacker:
-            g.add_node(x,color='green',label=x,size=sqrt(len(ret[x])+1)*20)
+            g.add_node(x,color='orange',label=x,size=(log2(len(ret[x])+1))*20)
         else:
             g.add_node(x,color='blue',label=x,size=20)
     for x in ret.items():
@@ -138,5 +139,6 @@ def showHackData(id:int):#展示成功Hack数据
     
     
 
-showHackData(588)
+#showHackData(588)
 #print(showHackData(566))
+#showHackOfContest(588)

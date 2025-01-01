@@ -45,6 +45,7 @@ def showAllUserCountry(ax:matplotlib.axes._axes.Axes):#展示用户所处国家�
     ax.set_title("Codeforces主要用户分布",fontsize=20)
     ax.set_ylabel("人数",fontsize=15)
     ax.set_xlabel("国家",fontsize=15)
+    plt.savefig("./OutPut/PeoCountry.svg")
 
 def showTop20MostFriend(ax:matplotlib.axes._axes.Axes):
     data = pd.read_csv("./NormalData/alluserinfo.csv")
@@ -97,6 +98,7 @@ def showAllUserRatingDist(ax:matplotlib.axes._axes.Axes):#可视化全球Rating�
     ax1.ecdf(data,color='orange',label='密度累积曲线')
     ax1.legend()
     ax.legend(borderaxespad=2.5)
+    plt.savefig("./OutPut/UserRatingDis.svg")
 
     
 

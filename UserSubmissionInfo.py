@@ -175,6 +175,7 @@ def ShowSubmission(username:str,days:int):
     showUserSubRecent(username,days,ax1,ax2,ax3)
     plt.tight_layout()
     plt.show()
+    fig.savefig("./OutPut/User_{}_Submission.svg".format(username))
 
 #print(time.time())
 ShowSubmission(user_name,30)

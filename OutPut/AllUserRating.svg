@@ -1,0 +1,2096 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="720pt" height="360pt" viewBox="0 0 720 360" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2025-01-01T22:38:38.172730</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.0, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 360 
+L 720 360 
+L 720 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 90 320.4 
+L 648 320.4 
+L 648 43.2 
+L 90 43.2 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1">
+      <path d="M 107.37951 320.4 
+L 107.37951 43.2 
+" clip-path="url(#p84a01929d9)" style="fill: none; stroke: #b0b0b0; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_2">
+      <defs>
+       <path id="m46c0c7c2d2" d="M 0 0 
+L 0 3.5 
+" style="stroke: #000000; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#m46c0c7c2d2" x="107.37951" y="320.4" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_1">
+      <!-- 2024-03-01 -->
+      <g transform="translate(82.37951 334.275) scale(0.1 -0.1)">
+       <defs>
+        <path id="KaiTi-32" d="M 300 250 
+Q 325 625 650 925 
+Q 975 1225 1475 1862 
+Q 1975 2500 2125 2850 
+Q 2275 3200 2237 3450 
+Q 2200 3700 2000 3862 
+Q 1800 4025 1537 4000 
+Q 1275 3975 1037 3800 
+Q 800 3625 675 3275 
+L 200 3350 
+Q 400 3925 712 4187 
+Q 1025 4450 1450 4475 
+Q 1700 4500 1900 4462 
+Q 2100 4425 2312 4287 
+Q 2525 4150 2662 3875 
+Q 2800 3600 2762 3212 
+Q 2725 2825 2375 2287 
+Q 2025 1750 1025 600 
+L 2825 600 
+L 2825 150 
+L 300 150 
+L 300 250 
+z
+" transform="scale(0.015625)"/>
+        <path id="KaiTi-30" d="M 225 2537 
+Q 250 3200 412 3587 
+Q 575 3975 875 4225 
+Q 1175 4475 1612 4475 
+Q 2050 4475 2375 4112 
+Q 2700 3750 2800 3200 
+Q 2900 2650 2862 1937 
+Q 2825 1225 2612 775 
+Q 2400 325 1975 150 
+Q 1550 -25 1125 187 
+Q 700 400 525 750 
+Q 350 1100 275 1487 
+Q 200 1875 225 2537 
+z
+M 750 2687 
+Q 675 2000 800 1462 
+Q 925 925 1212 700 
+Q 1500 475 1800 612 
+Q 2100 750 2237 1162 
+Q 2375 1575 2375 2062 
+Q 2375 2550 2337 2950 
+Q 2300 3350 2112 3675 
+Q 1925 4000 1612 4012 
+Q 1300 4025 1062 3700 
+Q 825 3375 750 2687 
+z
+" transform="scale(0.015625)"/>
+        <path id="KaiTi-34" d="M 2000 1100 
+L 75 1100 
+L 75 1525 
+L 2100 4450 
+L 2475 4450 
+L 2475 1525 
+L 3075 1525 
+L 3075 1100 
+L 2475 1100 
+L 2475 150 
+L 2000 150 
+L 2000 1100 
+z
+M 2000 1525 
+L 2000 3500 
+L 600 1525 
+L 2000 1525 
+z
+" transform="scale(0.015625)"/>
+        <path id="KaiTi-2d" d="M 2975 2125 
+L 125 2125 
+L 125 2525 
+L 2975 2525 
+L 2975 2125 
+z
+" transform="scale(0.015625)"/>
+        <path id="KaiTi-33" d="M 250 1225 
+L 700 1300 
+Q 800 975 1025 762 
+Q 1250 550 1587 562 
+Q 1925 575 2125 837 
+Q 2325 1100 2300 1437 
+Q 2275 1775 2037 1962 
+Q 1800 2150 1275 2225 
+L 1275 2550 
+Q 1800 2600 2037 2825 
+Q 2275 3050 2250 3412 
+Q 2225 3775 1925 3937 
+Q 1625 4100 1287 3975 
+Q 950 3850 750 3275 
+L 300 3350 
+Q 450 3800 712 4100 
+Q 975 4400 1425 4450 
+Q 1875 4500 2212 4337 
+Q 2550 4175 2687 3837 
+Q 2825 3500 2725 3100 
+Q 2625 2700 2150 2400 
+Q 2500 2250 2687 1950 
+Q 2875 1650 2812 1162 
+Q 2750 675 2375 375 
+Q 2000 75 1525 87 
+Q 1050 100 700 387 
+Q 350 675 250 1225 
+z
+" transform="scale(0.015625)"/>
+        <path id="KaiTi-31" d="M 1400 3600 
+Q 1075 3275 575 2975 
+L 575 3450 
+Q 1200 3875 1600 4450 
+L 1900 4450 
+L 1900 150 
+L 1400 150 
+L 1400 3600 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#KaiTi-32"/>
+       <use xlink:href="#KaiTi-30" transform="translate(50 0)"/>
+       <use xlink:href="#KaiTi-32" transform="translate(100 0)"/>
+       <use xlink:href="#KaiTi-34" transform="translate(150 0)"/>
+       <use xlink:href="#KaiTi-2d" transform="translate(200 0)"/>
+       <use xlink:href="#KaiTi-30" transform="translate(250 0)"/>
+       <use xlink:href="#KaiTi-33" transform="translate(300 0)"/>
+       <use xlink:href="#KaiTi-2d" transform="translate(350 0)"/>
+       <use xlink:href="#KaiTi-30" transform="translate(400 0)"/>
+       <use xlink:href="#KaiTi-31" transform="translate(450 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_3">
+      <path d="M 160.142115 320.4 
+L 160.142115 43.2 
+" clip-path="url(#p84a01929d9)" style="fill: none; stroke: #b0b0b0; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_4">
+      <g>
+       <use xlink:href="#m46c0c7c2d2" x="160.142115" y="320.4" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_2">
+      <!-- 2024-04-01 -->
+      <g transform="translate(135.142115 334.275) scale(0.1 -0.1)">
+       <use xlink:href="#KaiTi-32"/>
+       <use xlink:href="#KaiTi-30" transform="translate(50 0)"/>
+       <use xlink:href="#KaiTi-32" transform="translate(100 0)"/>
+       <use xlink:href="#KaiTi-34" transform="translate(150 0)"/>
+       <use xlink:href="#KaiTi-2d" transform="translate(200 0)"/>
+       <use xlink:href="#KaiTi-30" transform="translate(250 0)"/>
+       <use xlink:href="#KaiTi-34" transform="translate(300 0)"/>
+       <use xlink:href="#KaiTi-2d" transform="translate(350 0)"/>
+       <use xlink:href="#KaiTi-30" transform="translate(400 0)"/>
+       <use xlink:href="#KaiTi-31" transform="translate(450 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_5">
+      <path d="M 211.202699 320.4 
+L 211.202699 43.2 
+" clip-path="url(#p84a01929d9)" style="fill: none; stroke: #b0b0b0; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_6">
+      <g>
+       <use xlink:href="#m46c0c7c2d2" x="211.202699" y="320.4" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_3">
+      <!-- 2024-05-01 -->
+      <g transform="translate(186.202699 334.275) scale(0.1 -0.1)">
+       <defs>
+        <path id="KaiTi-35" d="M 550 1325 
+Q 725 650 1150 575 
+Q 1575 500 1837 662 
+Q 2100 825 2212 1087 
+Q 2325 1350 2312 1675 
+Q 2300 2000 2137 2225 
+Q 1975 2450 1725 2525 
+Q 1475 2600 1162 2525 
+Q 850 2450 650 2175 
+L 225 2225 
+Q 275 2375 700 4375 
+L 2675 4375 
+L 2675 3925 
+L 1075 3925 
+Q 950 3250 825 2850 
+Q 1200 3025 1525 3012 
+Q 1850 3000 2150 2862 
+Q 2450 2725 2587 2487 
+Q 2725 2250 2787 2012 
+Q 2850 1775 2837 1500 
+Q 2825 1225 2725 937 
+Q 2625 650 2425 462 
+Q 2225 275 1937 162 
+Q 1650 50 1275 75 
+Q 900 100 562 350 
+Q 225 600 100 1200 
+L 550 1325 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#KaiTi-32"/>
+       <use xlink:href="#KaiTi-30" transform="translate(50 0)"/>
+       <use xlink:href="#KaiTi-32" transform="translate(100 0)"/>
+       <use xlink:href="#KaiTi-34" transform="translate(150 0)"/>
+       <use xlink:href="#KaiTi-2d" transform="translate(200 0)"/>
+       <use xlink:href="#KaiTi-30" transform="translate(250 0)"/>
+       <use xlink:href="#KaiTi-35" transform="translate(300 0)"/>
+       <use xlink:href="#KaiTi-2d" transform="translate(350 0)"/>
+       <use xlink:href="#KaiTi-30" transform="translate(400 0)"/>
+       <use xlink:href="#KaiTi-31" transform="translate(450 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_7">
+      <path d="M 263.965304 320.4 
+L 263.965304 43.2 
+" clip-path="url(#p84a01929d9)" style="fill: none; stroke: #b0b0b0; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_8">
+      <g>
+       <use xlink:href="#m46c0c7c2d2" x="263.965304" y="320.4" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_4">
+      <!-- 2024-06-01 -->
+      <g transform="translate(238.965304 334.275) scale(0.1 -0.1)">
+       <defs>
+        <path id="KaiTi-36" d="M 250 1612 
+Q 275 1975 387 2225 
+Q 500 2475 725 2850 
+L 1750 4450 
+L 2325 4450 
+L 1275 2800 
+Q 1950 2975 2350 2750 
+Q 2750 2525 2887 2237 
+Q 3025 1950 3037 1612 
+Q 3050 1275 2937 950 
+Q 2825 625 2537 362 
+Q 2250 100 1737 75 
+Q 1225 50 862 262 
+Q 500 475 362 862 
+Q 225 1250 250 1612 
+z
+M 1025 787 
+Q 1250 550 1625 525 
+Q 2000 500 2250 775 
+Q 2500 1050 2500 1575 
+Q 2500 2100 2187 2300 
+Q 1875 2500 1487 2450 
+Q 1100 2400 925 2075 
+Q 750 1750 775 1387 
+Q 800 1025 1025 787 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#KaiTi-32"/>
+       <use xlink:href="#KaiTi-30" transform="translate(50 0)"/>
+       <use xlink:href="#KaiTi-32" transform="translate(100 0)"/>
+       <use xlink:href="#KaiTi-34" transform="translate(150 0)"/>
+       <use xlink:href="#KaiTi-2d" transform="translate(200 0)"/>
+       <use xlink:href="#KaiTi-30" transform="translate(250 0)"/>
+       <use xlink:href="#KaiTi-36" transform="translate(300 0)"/>
+       <use xlink:href="#KaiTi-2d" transform="translate(350 0)"/>
+       <use xlink:href="#KaiTi-30" transform="translate(400 0)"/>
+       <use xlink:href="#KaiTi-31" transform="translate(450 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_5">
+     <g id="line2d_9">
+      <path d="M 315.025889 320.4 
+L 315.025889 43.2 
+" clip-path="url(#p84a01929d9)" style="fill: none; stroke: #b0b0b0; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_10">
+      <g>
+       <use xlink:href="#m46c0c7c2d2" x="315.025889" y="320.4" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_5">
+      <!-- 2024-07-01 -->
+      <g transform="translate(290.025889 334.275) scale(0.1 -0.1)">
+       <defs>
+        <path id="KaiTi-37" d="M 850 150 
+Q 1300 2050 2425 3925 
+L 275 3925 
+L 275 4375 
+L 2950 4375 
+L 2950 3950 
+Q 1775 2050 1400 150 
+L 850 150 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#KaiTi-32"/>
+       <use xlink:href="#KaiTi-30" transform="translate(50 0)"/>
+       <use xlink:href="#KaiTi-32" transform="translate(100 0)"/>
+       <use xlink:href="#KaiTi-34" transform="translate(150 0)"/>
+       <use xlink:href="#KaiTi-2d" transform="translate(200 0)"/>
+       <use xlink:href="#KaiTi-30" transform="translate(250 0)"/>
+       <use xlink:href="#KaiTi-37" transform="translate(300 0)"/>
+       <use xlink:href="#KaiTi-2d" transform="translate(350 0)"/>
+       <use xlink:href="#KaiTi-30" transform="translate(400 0)"/>
+       <use xlink:href="#KaiTi-31" transform="translate(450 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_6">
+     <g id="line2d_11">
+      <path d="M 367.788493 320.4 
+L 367.788493 43.2 
+" clip-path="url(#p84a01929d9)" style="fill: none; stroke: #b0b0b0; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_12">
+      <g>
+       <use xlink:href="#m46c0c7c2d2" x="367.788493" y="320.4" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_6">
+      <!-- 2024-08-01 -->
+      <g transform="translate(342.788493 334.275) scale(0.1 -0.1)">
+       <defs>
+        <path id="KaiTi-38" d="M 175 1375 
+Q 175 1675 325 1962 
+Q 475 2250 825 2425 
+Q 525 2600 425 2812 
+Q 325 3025 312 3300 
+Q 300 3575 387 3775 
+Q 475 3975 650 4150 
+Q 825 4325 1037 4387 
+Q 1250 4450 1500 4450 
+Q 1750 4450 1950 4400 
+Q 2150 4350 2375 4187 
+Q 2600 4025 2700 3725 
+Q 2800 3425 2687 3025 
+Q 2575 2625 2100 2400 
+Q 2525 2275 2700 2012 
+Q 2875 1750 2875 1375 
+Q 2875 1000 2762 775 
+Q 2650 550 2512 400 
+Q 2375 250 2137 162 
+Q 1900 75 1537 75 
+Q 1175 75 912 162 
+Q 650 250 475 425 
+Q 300 600 237 837 
+Q 175 1075 175 1375 
+z
+M 687 1400 
+Q 675 1100 787 875 
+Q 900 650 1200 587 
+Q 1500 525 1825 600 
+Q 2150 675 2275 950 
+Q 2400 1225 2362 1500 
+Q 2325 1775 2050 1962 
+Q 1775 2150 1450 2125 
+Q 1125 2100 912 1900 
+Q 700 1700 687 1400 
+z
+M 775 3350 
+Q 775 3100 950 2875 
+Q 1125 2650 1500 2650 
+Q 1875 2650 2062 2875 
+Q 2250 3100 2237 3412 
+Q 2225 3725 2012 3875 
+Q 1800 4025 1437 4000 
+Q 1075 3975 925 3787 
+Q 775 3600 775 3350 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#KaiTi-32"/>
+       <use xlink:href="#KaiTi-30" transform="translate(50 0)"/>
+       <use xlink:href="#KaiTi-32" transform="translate(100 0)"/>
+       <use xlink:href="#KaiTi-34" transform="translate(150 0)"/>
+       <use xlink:href="#KaiTi-2d" transform="translate(200 0)"/>
+       <use xlink:href="#KaiTi-30" transform="translate(250 0)"/>
+       <use xlink:href="#KaiTi-38" transform="translate(300 0)"/>
+       <use xlink:href="#KaiTi-2d" transform="translate(350 0)"/>
+       <use xlink:href="#KaiTi-30" transform="translate(400 0)"/>
+       <use xlink:href="#KaiTi-31" transform="translate(450 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_7">
+     <g id="line2d_13">
+      <path d="M 420.551097 320.4 
+L 420.551097 43.2 
+" clip-path="url(#p84a01929d9)" style="fill: none; stroke: #b0b0b0; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_14">
+      <g>
+       <use xlink:href="#m46c0c7c2d2" x="420.551097" y="320.4" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_7">
+      <!-- 2024-09-01 -->
+      <g transform="translate(395.551097 334.275) scale(0.1 -0.1)">
+       <defs>
+        <path id="KaiTi-39" d="M 800 75 
+Q 1350 1000 1700 1750 
+Q 1075 1650 662 1912 
+Q 250 2175 162 2625 
+Q 75 3075 175 3437 
+Q 275 3800 487 4037 
+Q 700 4275 1000 4375 
+Q 1300 4475 1537 4475 
+Q 1775 4475 2025 4375 
+Q 2275 4275 2475 4075 
+Q 2675 3875 2750 3662 
+Q 2825 3450 2825 3112 
+Q 2825 2775 2575 2250 
+Q 2325 1725 1350 75 
+L 800 75 
+z
+M 662 2875 
+Q 700 2550 937 2337 
+Q 1175 2125 1450 2150 
+Q 1725 2175 1887 2300 
+Q 2050 2425 2200 2725 
+Q 2300 3100 2250 3362 
+Q 2200 3625 1987 3800 
+Q 1775 3975 1525 3975 
+Q 1375 4000 1137 3900 
+Q 900 3800 762 3500 
+Q 625 3200 662 2875 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#KaiTi-32"/>
+       <use xlink:href="#KaiTi-30" transform="translate(50 0)"/>
+       <use xlink:href="#KaiTi-32" transform="translate(100 0)"/>
+       <use xlink:href="#KaiTi-34" transform="translate(150 0)"/>
+       <use xlink:href="#KaiTi-2d" transform="translate(200 0)"/>
+       <use xlink:href="#KaiTi-30" transform="translate(250 0)"/>
+       <use xlink:href="#KaiTi-39" transform="translate(300 0)"/>
+       <use xlink:href="#KaiTi-2d" transform="translate(350 0)"/>
+       <use xlink:href="#KaiTi-30" transform="translate(400 0)"/>
+       <use xlink:href="#KaiTi-31" transform="translate(450 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_8">
+     <g id="line2d_15">
+      <path d="M 471.611682 320.4 
+L 471.611682 43.2 
+" clip-path="url(#p84a01929d9)" style="fill: none; stroke: #b0b0b0; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_16">
+      <g>
+       <use xlink:href="#m46c0c7c2d2" x="471.611682" y="320.4" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_8">
+      <!-- 2024-10-01 -->
+      <g transform="translate(446.611682 334.275) scale(0.1 -0.1)">
+       <use xlink:href="#KaiTi-32"/>
+       <use xlink:href="#KaiTi-30" transform="translate(50 0)"/>
+       <use xlink:href="#KaiTi-32" transform="translate(100 0)"/>
+       <use xlink:href="#KaiTi-34" transform="translate(150 0)"/>
+       <use xlink:href="#KaiTi-2d" transform="translate(200 0)"/>
+       <use xlink:href="#KaiTi-31" transform="translate(250 0)"/>
+       <use xlink:href="#KaiTi-30" transform="translate(300 0)"/>
+       <use xlink:href="#KaiTi-2d" transform="translate(350 0)"/>
+       <use xlink:href="#KaiTi-30" transform="translate(400 0)"/>
+       <use xlink:href="#KaiTi-31" transform="translate(450 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_9">
+     <g id="line2d_17">
+      <path d="M 524.374287 320.4 
+L 524.374287 43.2 
+" clip-path="url(#p84a01929d9)" style="fill: none; stroke: #b0b0b0; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_18">
+      <g>
+       <use xlink:href="#m46c0c7c2d2" x="524.374287" y="320.4" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_9">
+      <!-- 2024-11-01 -->
+      <g transform="translate(499.374287 334.275) scale(0.1 -0.1)">
+       <use xlink:href="#KaiTi-32"/>
+       <use xlink:href="#KaiTi-30" transform="translate(50 0)"/>
+       <use xlink:href="#KaiTi-32" transform="translate(100 0)"/>
+       <use xlink:href="#KaiTi-34" transform="translate(150 0)"/>
+       <use xlink:href="#KaiTi-2d" transform="translate(200 0)"/>
+       <use xlink:href="#KaiTi-31" transform="translate(250 0)"/>
+       <use xlink:href="#KaiTi-31" transform="translate(300 0)"/>
+       <use xlink:href="#KaiTi-2d" transform="translate(350 0)"/>
+       <use xlink:href="#KaiTi-30" transform="translate(400 0)"/>
+       <use xlink:href="#KaiTi-31" transform="translate(450 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_10">
+     <g id="line2d_19">
+      <path d="M 575.434872 320.4 
+L 575.434872 43.2 
+" clip-path="url(#p84a01929d9)" style="fill: none; stroke: #b0b0b0; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_20">
+      <g>
+       <use xlink:href="#m46c0c7c2d2" x="575.434872" y="320.4" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_10">
+      <!-- 2024-12-01 -->
+      <g transform="translate(550.434872 334.275) scale(0.1 -0.1)">
+       <use xlink:href="#KaiTi-32"/>
+       <use xlink:href="#KaiTi-30" transform="translate(50 0)"/>
+       <use xlink:href="#KaiTi-32" transform="translate(100 0)"/>
+       <use xlink:href="#KaiTi-34" transform="translate(150 0)"/>
+       <use xlink:href="#KaiTi-2d" transform="translate(200 0)"/>
+       <use xlink:href="#KaiTi-31" transform="translate(250 0)"/>
+       <use xlink:href="#KaiTi-32" transform="translate(300 0)"/>
+       <use xlink:href="#KaiTi-2d" transform="translate(350 0)"/>
+       <use xlink:href="#KaiTi-30" transform="translate(400 0)"/>
+       <use xlink:href="#KaiTi-31" transform="translate(450 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_11">
+     <g id="line2d_21">
+      <path d="M 628.197476 320.4 
+L 628.197476 43.2 
+" clip-path="url(#p84a01929d9)" style="fill: none; stroke: #b0b0b0; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_22">
+      <g>
+       <use xlink:href="#m46c0c7c2d2" x="628.197476" y="320.4" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_11">
+      <!-- 2025-01-01 -->
+      <g transform="translate(603.197476 334.275) scale(0.1 -0.1)">
+       <use xlink:href="#KaiTi-32"/>
+       <use xlink:href="#KaiTi-30" transform="translate(50 0)"/>
+       <use xlink:href="#KaiTi-32" transform="translate(100 0)"/>
+       <use xlink:href="#KaiTi-35" transform="translate(150 0)"/>
+       <use xlink:href="#KaiTi-2d" transform="translate(200 0)"/>
+       <use xlink:href="#KaiTi-30" transform="translate(250 0)"/>
+       <use xlink:href="#KaiTi-31" transform="translate(300 0)"/>
+       <use xlink:href="#KaiTi-2d" transform="translate(350 0)"/>
+       <use xlink:href="#KaiTi-30" transform="translate(400 0)"/>
+       <use xlink:href="#KaiTi-31" transform="translate(450 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="text_12">
+     <!-- 时间(Y-M-D) -->
+     <g transform="translate(341.5 347.142187) scale(0.1 -0.1)">
+      <defs>
+       <path id="KaiTi-65f6" d="M 1900 850 
+Q 1550 825 1150 750 
+Q 1100 200 925 525 
+Q 750 850 825 1125 
+Q 900 1400 912 2475 
+Q 925 3550 787 3825 
+Q 650 4100 837 4025 
+Q 1025 3950 1387 4000 
+Q 1750 4050 1850 4125 
+Q 1950 4200 2262 4062 
+Q 2575 3925 2487 3812 
+Q 2400 3700 2325 3450 
+Q 2250 3200 2287 2100 
+Q 2325 1000 2225 650 
+Q 2125 300 2050 362 
+Q 1975 425 1900 850 
+z
+M 4575 3250 
+Q 5075 3300 5375 3362 
+Q 5675 3425 5912 3212 
+Q 6150 3000 5737 3012 
+Q 5325 3025 4575 2950 
+Q 4575 1975 4625 1050 
+Q 4675 125 4450 -275 
+Q 4225 -675 4112 -375 
+Q 4000 -75 3725 200 
+Q 3450 475 3600 425 
+Q 3750 375 3950 300 
+Q 4150 225 4200 362 
+Q 4250 500 4262 837 
+Q 4275 1175 4275 2925 
+Q 3325 2775 3075 2725 
+Q 2825 2675 2600 2862 
+Q 2375 3050 2600 3037 
+Q 2825 3025 3250 3062 
+Q 3675 3100 4250 3175 
+Q 4250 4450 4075 4725 
+Q 3900 5000 4100 4962 
+Q 4300 4925 4512 4837 
+Q 4725 4750 4637 4512 
+Q 4550 4275 4575 3250 
+z
+M 1150 975 
+Q 1575 1050 1900 1050 
+Q 2000 1275 2000 1700 
+L 2000 2900 
+Q 2000 3675 1925 3812 
+Q 1850 3950 1175 3750 
+L 1175 2500 
+Q 1350 2575 1537 2625 
+Q 1725 2675 1812 2562 
+Q 1900 2450 1675 2387 
+Q 1450 2325 1150 2325 
+L 1150 975 
+z
+M 2950 1975 
+Q 2750 2250 3125 2200 
+Q 3500 2150 3612 1962 
+Q 3725 1775 3675 1587 
+Q 3625 1400 3400 1562 
+Q 3175 1725 2950 1975 
+z
+" transform="scale(0.015625)"/>
+       <path id="KaiTi-95f4" d="M 2625 1375 
+Q 2550 900 2400 1112 
+Q 2250 1325 2300 1675 
+Q 2350 2025 2337 2487 
+Q 2325 2950 2200 3187 
+Q 2075 3425 2275 3400 
+Q 2475 3375 2562 3350 
+Q 2650 3325 3025 3387 
+Q 3400 3450 3525 3537 
+Q 3650 3625 3825 3562 
+Q 4000 3500 4125 3412 
+Q 4250 3325 4150 3187 
+Q 4050 3050 4037 2850 
+Q 4025 2650 4050 2100 
+Q 4075 1550 3962 1212 
+Q 3850 875 3762 1037 
+Q 3675 1200 3575 1400 
+Q 2900 1375 2625 1375 
+z
+M 4925 700 
+Q 4975 1025 4962 1775 
+Q 4950 2525 4925 3350 
+Q 4900 4175 4800 4300 
+Q 4700 4425 4225 4350 
+Q 3750 4275 3425 4187 
+Q 3100 4100 2875 4250 
+Q 2650 4400 2937 4387 
+Q 3225 4375 3887 4512 
+Q 4550 4650 4662 4725 
+Q 4775 4800 4962 4737 
+Q 5150 4675 5350 4537 
+Q 5550 4400 5387 4250 
+Q 5225 4100 5250 3325 
+Q 5275 2550 5337 1700 
+Q 5400 850 5350 400 
+Q 5300 -50 5162 -312 
+Q 5025 -575 4875 -287 
+Q 4725 0 4437 250 
+Q 4150 500 4387 450 
+Q 4625 400 4750 400 
+Q 4875 400 4925 700 
+z
+M 2625 1550 
+Q 2975 1575 3212 1600 
+Q 3450 1625 3587 1600 
+Q 3725 1575 3700 2237 
+Q 3675 2900 3650 3050 
+Q 3625 3200 3500 3225 
+Q 3375 3250 2625 3150 
+L 2625 2475 
+Q 2800 2475 3050 2537 
+Q 3300 2600 3400 2487 
+Q 3500 2375 3200 2312 
+Q 2900 2250 2625 2275 
+L 2625 1550 
+z
+M 1575 3950 
+Q 1775 3850 1662 3675 
+Q 1550 3500 1537 2875 
+Q 1525 2250 1500 1612 
+Q 1475 975 1387 437 
+Q 1300 -100 1112 362 
+Q 925 825 1062 1087 
+Q 1200 1350 1262 2500 
+Q 1325 3650 1150 3912 
+Q 975 4175 1187 4125 
+Q 1400 4075 1575 3950 
+z
+M 2175 4675 
+Q 2375 4500 2300 4262 
+Q 2225 4025 2025 4212 
+Q 1825 4400 1637 4687 
+Q 1450 4975 1725 4912 
+Q 2000 4850 2175 4675 
+z
+" transform="scale(0.015625)"/>
+       <path id="KaiTi-28" d="M 2975 -200 
+L 2700 -475 
+Q 2075 125 1762 775 
+Q 1450 1425 1450 2250 
+Q 1450 3075 1762 3725 
+Q 2075 4375 2700 5000 
+L 2975 4725 
+Q 2400 4175 2112 3587 
+Q 1825 3000 1825 2250 
+Q 1825 1500 2112 912 
+Q 2400 325 2975 -200 
+z
+" transform="scale(0.015625)"/>
+       <path id="KaiTi-59" d="M 3025 4400 
+L 1850 2050 
+L 1850 125 
+L 1275 125 
+L 1275 2050 
+L 100 4400 
+L 675 4400 
+L 1550 2575 
+L 1575 2575 
+L 2450 4400 
+L 3025 4400 
+z
+" transform="scale(0.015625)"/>
+       <path id="KaiTi-4d" d="M 2925 125 
+L 2425 125 
+L 2425 3175 
+L 2375 3175 
+L 1775 125 
+L 1375 125 
+L 775 3175 
+L 725 3175 
+L 725 125 
+L 225 125 
+L 225 4400 
+L 1000 4400 
+L 1550 1575 
+L 1600 1575 
+L 2150 4400 
+L 2925 4400 
+L 2925 125 
+z
+" transform="scale(0.015625)"/>
+       <path id="KaiTi-44" d="M 2925 2250 
+Q 2925 1100 2437 612 
+Q 1950 125 1125 125 
+L 275 125 
+L 275 4400 
+L 1125 4400 
+Q 2050 4400 2487 3900 
+Q 2925 3400 2925 2250 
+z
+M 2325 2250 
+Q 2325 3175 2025 3550 
+Q 1725 3925 1125 3925 
+L 850 3925 
+L 850 600 
+L 1125 600 
+Q 1725 600 2025 962 
+Q 2325 1325 2325 2250 
+z
+" transform="scale(0.015625)"/>
+       <path id="KaiTi-29" d="M 1675 2250 
+Q 1675 1425 1362 775 
+Q 1050 125 425 -475 
+L 150 -200 
+Q 725 325 1012 912 
+Q 1300 1500 1300 2250 
+Q 1300 3000 1012 3587 
+Q 725 4175 150 4725 
+L 425 5000 
+Q 1050 4375 1362 3725 
+Q 1675 3075 1675 2250 
+z
+" transform="scale(0.015625)"/>
+      </defs>
+      <use xlink:href="#KaiTi-65f6"/>
+      <use xlink:href="#KaiTi-95f4" transform="translate(100 0)"/>
+      <use xlink:href="#KaiTi-28" transform="translate(200 0)"/>
+      <use xlink:href="#KaiTi-59" transform="translate(250 0)"/>
+      <use xlink:href="#KaiTi-2d" transform="translate(300 0)"/>
+      <use xlink:href="#KaiTi-4d" transform="translate(350 0)"/>
+      <use xlink:href="#KaiTi-2d" transform="translate(400 0)"/>
+      <use xlink:href="#KaiTi-44" transform="translate(450 0)"/>
+      <use xlink:href="#KaiTi-29" transform="translate(500 0)"/>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_23">
+      <path d="M 90 292.696417 
+L 648 292.696417 
+" clip-path="url(#p84a01929d9)" style="fill: none; stroke: #b0b0b0; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_24">
+      <defs>
+       <path id="m7a9aa4ee7e" d="M 0 0 
+L -3.5 0 
+" style="stroke: #000000; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#m7a9aa4ee7e" x="90" y="292.696417" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_13">
+      <!-- 600 -->
+      <g transform="translate(68 296.133917) scale(0.1 -0.1)">
+       <use xlink:href="#KaiTi-36"/>
+       <use xlink:href="#KaiTi-30" transform="translate(50 0)"/>
+       <use xlink:href="#KaiTi-30" transform="translate(100 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_25">
+      <path d="M 90 259.862541 
+L 648 259.862541 
+" clip-path="url(#p84a01929d9)" style="fill: none; stroke: #b0b0b0; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_26">
+      <g>
+       <use xlink:href="#m7a9aa4ee7e" x="90" y="259.862541" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_14">
+      <!-- 800 -->
+      <g transform="translate(68 263.300041) scale(0.1 -0.1)">
+       <use xlink:href="#KaiTi-38"/>
+       <use xlink:href="#KaiTi-30" transform="translate(50 0)"/>
+       <use xlink:href="#KaiTi-30" transform="translate(100 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_27">
+      <path d="M 90 227.028664 
+L 648 227.028664 
+" clip-path="url(#p84a01929d9)" style="fill: none; stroke: #b0b0b0; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_28">
+      <g>
+       <use xlink:href="#m7a9aa4ee7e" x="90" y="227.028664" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_15">
+      <!-- 1000 -->
+      <g transform="translate(63 230.466164) scale(0.1 -0.1)">
+       <use xlink:href="#KaiTi-31"/>
+       <use xlink:href="#KaiTi-30" transform="translate(50 0)"/>
+       <use xlink:href="#KaiTi-30" transform="translate(100 0)"/>
+       <use xlink:href="#KaiTi-30" transform="translate(150 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_29">
+      <path d="M 90 194.194788 
+L 648 194.194788 
+" clip-path="url(#p84a01929d9)" style="fill: none; stroke: #b0b0b0; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_30">
+      <g>
+       <use xlink:href="#m7a9aa4ee7e" x="90" y="194.194788" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_16">
+      <!-- 1200 -->
+      <g transform="translate(63 197.632288) scale(0.1 -0.1)">
+       <use xlink:href="#KaiTi-31"/>
+       <use xlink:href="#KaiTi-32" transform="translate(50 0)"/>
+       <use xlink:href="#KaiTi-30" transform="translate(100 0)"/>
+       <use xlink:href="#KaiTi-30" transform="translate(150 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_5">
+     <g id="line2d_31">
+      <path d="M 90 161.360912 
+L 648 161.360912 
+" clip-path="url(#p84a01929d9)" style="fill: none; stroke: #b0b0b0; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_32">
+      <g>
+       <use xlink:href="#m7a9aa4ee7e" x="90" y="161.360912" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_17">
+      <!-- 1400 -->
+      <g transform="translate(63 164.798412) scale(0.1 -0.1)">
+       <use xlink:href="#KaiTi-31"/>
+       <use xlink:href="#KaiTi-34" transform="translate(50 0)"/>
+       <use xlink:href="#KaiTi-30" transform="translate(100 0)"/>
+       <use xlink:href="#KaiTi-30" transform="translate(150 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_6">
+     <g id="line2d_33">
+      <path d="M 90 128.527036 
+L 648 128.527036 
+" clip-path="url(#p84a01929d9)" style="fill: none; stroke: #b0b0b0; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_34">
+      <g>
+       <use xlink:href="#m7a9aa4ee7e" x="90" y="128.527036" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_18">
+      <!-- 1600 -->
+      <g transform="translate(63 131.964536) scale(0.1 -0.1)">
+       <use xlink:href="#KaiTi-31"/>
+       <use xlink:href="#KaiTi-36" transform="translate(50 0)"/>
+       <use xlink:href="#KaiTi-30" transform="translate(100 0)"/>
+       <use xlink:href="#KaiTi-30" transform="translate(150 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_7">
+     <g id="line2d_35">
+      <path d="M 90 95.69316 
+L 648 95.69316 
+" clip-path="url(#p84a01929d9)" style="fill: none; stroke: #b0b0b0; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_36">
+      <g>
+       <use xlink:href="#m7a9aa4ee7e" x="90" y="95.69316" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_19">
+      <!-- 1800 -->
+      <g transform="translate(63 99.13066) scale(0.1 -0.1)">
+       <use xlink:href="#KaiTi-31"/>
+       <use xlink:href="#KaiTi-38" transform="translate(50 0)"/>
+       <use xlink:href="#KaiTi-30" transform="translate(100 0)"/>
+       <use xlink:href="#KaiTi-30" transform="translate(150 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_8">
+     <g id="line2d_37">
+      <path d="M 90 62.859283 
+L 648 62.859283 
+" clip-path="url(#p84a01929d9)" style="fill: none; stroke: #b0b0b0; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_38">
+      <g>
+       <use xlink:href="#m7a9aa4ee7e" x="90" y="62.859283" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_20">
+      <!-- 2000 -->
+      <g transform="translate(63 66.296783) scale(0.1 -0.1)">
+       <use xlink:href="#KaiTi-32"/>
+       <use xlink:href="#KaiTi-30" transform="translate(50 0)"/>
+       <use xlink:href="#KaiTi-30" transform="translate(100 0)"/>
+       <use xlink:href="#KaiTi-30" transform="translate(150 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="text_21">
+     <!-- Rating -->
+     <g transform="translate(57.75 196.8) rotate(-90) scale(0.1 -0.1)">
+      <defs>
+       <path id="KaiTi-52" d="M 3000 125 
+L 2400 125 
+L 1500 1975 
+L 850 1975 
+L 850 125 
+L 275 125 
+L 275 4400 
+L 1525 4400 
+Q 2125 4400 2500 4112 
+Q 2875 3825 2875 3175 
+Q 2875 2675 2625 2400 
+Q 2375 2125 2050 2050 
+L 3000 125 
+z
+M 2300 3175 
+Q 2300 3525 2087 3725 
+Q 1875 3925 1400 3925 
+L 850 3925 
+L 850 2450 
+L 1550 2450 
+Q 1850 2450 2075 2612 
+Q 2300 2775 2300 3175 
+z
+" transform="scale(0.015625)"/>
+       <path id="KaiTi-61" d="M 2875 125 
+L 2275 125 
+Q 2225 175 2200 262 
+Q 2175 350 2175 475 
+Q 2000 275 1750 175 
+Q 1500 75 1225 75 
+Q 825 75 550 275 
+Q 275 475 275 850 
+Q 275 1225 525 1450 
+Q 775 1675 1300 1750 
+Q 1650 1800 1912 1875 
+Q 2175 1950 2175 2075 
+Q 2175 2225 2062 2375 
+Q 1950 2525 1575 2525 
+Q 1275 2525 1137 2412 
+Q 1000 2300 950 2100 
+L 400 2100 
+Q 450 2500 762 2737 
+Q 1075 2975 1575 2975 
+Q 2125 2975 2400 2725 
+Q 2675 2475 2675 2025 
+L 2675 650 
+Q 2675 500 2725 375 
+Q 2775 250 2875 125 
+z
+M 2175 1050 
+L 2175 1550 
+Q 2025 1500 1887 1462 
+Q 1750 1425 1425 1375 
+Q 1050 1325 937 1200 
+Q 825 1075 825 900 
+Q 825 750 937 637 
+Q 1050 525 1275 525 
+Q 1500 525 1762 650 
+Q 2025 775 2175 1050 
+z
+" transform="scale(0.015625)"/>
+       <path id="KaiTi-74" d="M 2750 200 
+Q 2625 150 2462 112 
+Q 2300 75 2025 75 
+Q 1575 75 1300 325 
+Q 1025 575 1025 1025 
+L 1025 2525 
+L 175 2525 
+L 175 2925 
+L 1025 2925 
+L 1025 3900 
+L 1525 3900 
+L 1525 2925 
+L 2550 2925 
+L 2550 2525 
+L 1525 2525 
+L 1525 1000 
+Q 1525 800 1625 662 
+Q 1725 525 2000 525 
+Q 2275 525 2450 575 
+Q 2625 625 2750 700 
+L 2750 200 
+z
+" transform="scale(0.015625)"/>
+       <path id="KaiTi-69" d="M 1800 125 
+L 1300 125 
+L 1300 2925 
+L 1800 2925 
+L 1800 125 
+z
+M 1912 4075 
+Q 1925 3875 1750 3775 
+Q 1575 3675 1400 3762 
+Q 1225 3850 1212 4050 
+Q 1200 4250 1375 4350 
+Q 1550 4450 1725 4362 
+Q 1900 4275 1912 4075 
+z
+" transform="scale(0.015625)"/>
+       <path id="KaiTi-6e" d="M 2800 125 
+L 2300 125 
+L 2300 1925 
+Q 2300 2225 2150 2400 
+Q 2000 2575 1750 2575 
+Q 1425 2575 1137 2237 
+Q 850 1900 850 1400 
+L 850 125 
+L 350 125 
+L 350 2925 
+L 850 2925 
+L 850 2400 
+Q 1050 2675 1287 2825 
+Q 1525 2975 1900 2975 
+Q 2350 2975 2575 2725 
+Q 2800 2475 2800 2100 
+L 2800 125 
+z
+" transform="scale(0.015625)"/>
+       <path id="KaiTi-67" d="M 2975 2500 
+Q 2800 2550 2637 2562 
+Q 2475 2575 2300 2525 
+Q 2375 2450 2425 2337 
+Q 2475 2225 2475 2000 
+Q 2475 1575 2187 1300 
+Q 1900 1025 1475 1025 
+Q 1375 1025 1212 1062 
+Q 1050 1100 950 1150 
+Q 875 1100 850 1050 
+Q 825 1000 825 925 
+Q 825 800 1000 737 
+Q 1175 675 1625 675 
+Q 2350 675 2612 475 
+Q 2875 275 2875 -25 
+Q 2875 -425 2487 -612 
+Q 2100 -800 1575 -800 
+Q 900 -800 575 -625 
+Q 250 -450 250 -150 
+Q 250 0 375 150 
+Q 500 300 700 400 
+Q 550 475 462 587 
+Q 375 700 375 875 
+Q 375 1025 487 1137 
+Q 600 1250 750 1325 
+Q 625 1450 550 1625 
+Q 475 1800 475 2000 
+Q 475 2425 762 2700 
+Q 1050 2975 1475 2975 
+Q 1700 2975 1862 2912 
+Q 2025 2850 2150 2725 
+Q 2350 2875 2550 2937 
+Q 2750 3000 2975 2975 
+L 2975 2500 
+z
+M 1975 2000 
+Q 1975 2250 1850 2400 
+Q 1725 2550 1475 2550 
+Q 1225 2550 1100 2400 
+Q 975 2250 975 2000 
+Q 975 1750 1100 1600 
+Q 1225 1450 1475 1450 
+Q 1725 1450 1850 1600 
+Q 1975 1750 1975 2000 
+z
+M 2400 -75 
+Q 2400 25 2287 125 
+Q 2175 225 1725 225 
+Q 1625 225 1450 237 
+Q 1275 250 1050 275 
+Q 850 200 775 100 
+Q 700 0 700 -100 
+Q 700 -250 900 -350 
+Q 1100 -450 1600 -450 
+Q 2025 -450 2212 -337 
+Q 2400 -225 2400 -75 
+z
+" transform="scale(0.015625)"/>
+      </defs>
+      <use xlink:href="#KaiTi-52"/>
+      <use xlink:href="#KaiTi-61" transform="translate(50 0)"/>
+      <use xlink:href="#KaiTi-74" transform="translate(100 0)"/>
+      <use xlink:href="#KaiTi-69" transform="translate(150 0)"/>
+      <use xlink:href="#KaiTi-6e" transform="translate(200 0)"/>
+      <use xlink:href="#KaiTi-67" transform="translate(250 0)"/>
+     </g>
+    </g>
+   </g>
+   <g id="line2d_39">
+    <path d="M 227.714652 307.8 
+L 239.61106 250.833225 
+L 244.734847 209.462541 
+L 253.298133 188.613029 
+L 261.737313 176.792834 
+L 263.120204 164.6443 
+L 268.56312 156.764169 
+L 273.651449 146.914007 
+L 278.828425 153.97329 
+L 314.570835 158.405863 
+L 326.431783 156.6 
+L 333.239861 139.033876 
+L 340.03021 136.242997 
+L 345.136268 130.989577 
+L 348.540307 110.468404 
+L 362.227381 101.439088 
+L 365.560502 105.214984 
+L 374.0706 100.94658 
+L 384.282717 94.215635 
+L 386.055654 96.678176 
+L 392.792814 110.632573 
+L 401.302912 108.005863 
+L 409.813009 114.408469 
+L 418.358565 116.542671 
+L 443.853399 130.825407 
+L 455.797085 115.885993 
+L 465.944194 109.319218 
+L 480.695029 112.438436 
+L 494.913984 108.82671 
+L 503.406352 116.542671 
+L 504.736055 105.707492 
+L 515.338218 92.409772 
+L 518.742257 79.440391 
+L 539.237408 69.09772 
+L 563.065681 65.485993 
+L 574.979818 71.231922 
+L 607.318188 65.814332 
+L 615.757368 62.366775 
+L 622.636364 55.8 
+" clip-path="url(#p84a01929d9)" style="fill: none; stroke: #1f77b4; stroke-width: 1.5; stroke-linecap: square"/>
+    <defs>
+     <path id="m6a3b4ad139" d="M 0 3 
+C 0.795609 3 1.55874 2.683901 2.12132 2.12132 
+C 2.683901 1.55874 3 0.795609 3 0 
+C 3 -0.795609 2.683901 -1.55874 2.12132 -2.12132 
+C 1.55874 -2.683901 0.795609 -3 0 -3 
+C -0.795609 -3 -1.55874 -2.683901 -2.12132 -2.12132 
+C -2.683901 -1.55874 -3 -0.795609 -3 0 
+C -3 0.795609 -2.683901 1.55874 -2.12132 2.12132 
+C -1.55874 2.683901 -0.795609 3 0 3 
+z
+" style="stroke: #1f77b4"/>
+    </defs>
+    <g clip-path="url(#p84a01929d9)">
+     <use xlink:href="#m6a3b4ad139" x="227.714652" y="307.8" style="fill: #1f77b4; stroke: #1f77b4"/>
+     <use xlink:href="#m6a3b4ad139" x="239.61106" y="250.833225" style="fill: #1f77b4; stroke: #1f77b4"/>
+     <use xlink:href="#m6a3b4ad139" x="244.734847" y="209.462541" style="fill: #1f77b4; stroke: #1f77b4"/>
+     <use xlink:href="#m6a3b4ad139" x="253.298133" y="188.613029" style="fill: #1f77b4; stroke: #1f77b4"/>
+     <use xlink:href="#m6a3b4ad139" x="261.737313" y="176.792834" style="fill: #1f77b4; stroke: #1f77b4"/>
+     <use xlink:href="#m6a3b4ad139" x="263.120204" y="164.6443" style="fill: #1f77b4; stroke: #1f77b4"/>
+     <use xlink:href="#m6a3b4ad139" x="268.56312" y="156.764169" style="fill: #1f77b4; stroke: #1f77b4"/>
+     <use xlink:href="#m6a3b4ad139" x="273.651449" y="146.914007" style="fill: #1f77b4; stroke: #1f77b4"/>
+     <use xlink:href="#m6a3b4ad139" x="278.828425" y="153.97329" style="fill: #1f77b4; stroke: #1f77b4"/>
+     <use xlink:href="#m6a3b4ad139" x="314.570835" y="158.405863" style="fill: #1f77b4; stroke: #1f77b4"/>
+     <use xlink:href="#m6a3b4ad139" x="326.431783" y="156.6" style="fill: #1f77b4; stroke: #1f77b4"/>
+     <use xlink:href="#m6a3b4ad139" x="333.239861" y="139.033876" style="fill: #1f77b4; stroke: #1f77b4"/>
+     <use xlink:href="#m6a3b4ad139" x="340.03021" y="136.242997" style="fill: #1f77b4; stroke: #1f77b4"/>
+     <use xlink:href="#m6a3b4ad139" x="345.136268" y="130.989577" style="fill: #1f77b4; stroke: #1f77b4"/>
+     <use xlink:href="#m6a3b4ad139" x="348.540307" y="110.468404" style="fill: #1f77b4; stroke: #1f77b4"/>
+     <use xlink:href="#m6a3b4ad139" x="362.227381" y="101.439088" style="fill: #1f77b4; stroke: #1f77b4"/>
+     <use xlink:href="#m6a3b4ad139" x="365.560502" y="105.214984" style="fill: #1f77b4; stroke: #1f77b4"/>
+     <use xlink:href="#m6a3b4ad139" x="374.0706" y="100.94658" style="fill: #1f77b4; stroke: #1f77b4"/>
+     <use xlink:href="#m6a3b4ad139" x="384.282717" y="94.215635" style="fill: #1f77b4; stroke: #1f77b4"/>
+     <use xlink:href="#m6a3b4ad139" x="386.055654" y="96.678176" style="fill: #1f77b4; stroke: #1f77b4"/>
+     <use xlink:href="#m6a3b4ad139" x="392.792814" y="110.632573" style="fill: #1f77b4; stroke: #1f77b4"/>
+     <use xlink:href="#m6a3b4ad139" x="401.302912" y="108.005863" style="fill: #1f77b4; stroke: #1f77b4"/>
+     <use xlink:href="#m6a3b4ad139" x="409.813009" y="114.408469" style="fill: #1f77b4; stroke: #1f77b4"/>
+     <use xlink:href="#m6a3b4ad139" x="418.358565" y="116.542671" style="fill: #1f77b4; stroke: #1f77b4"/>
+     <use xlink:href="#m6a3b4ad139" x="443.853399" y="130.825407" style="fill: #1f77b4; stroke: #1f77b4"/>
+     <use xlink:href="#m6a3b4ad139" x="455.797085" y="115.885993" style="fill: #1f77b4; stroke: #1f77b4"/>
+     <use xlink:href="#m6a3b4ad139" x="465.944194" y="109.319218" style="fill: #1f77b4; stroke: #1f77b4"/>
+     <use xlink:href="#m6a3b4ad139" x="480.695029" y="112.438436" style="fill: #1f77b4; stroke: #1f77b4"/>
+     <use xlink:href="#m6a3b4ad139" x="494.913984" y="108.82671" style="fill: #1f77b4; stroke: #1f77b4"/>
+     <use xlink:href="#m6a3b4ad139" x="503.406352" y="116.542671" style="fill: #1f77b4; stroke: #1f77b4"/>
+     <use xlink:href="#m6a3b4ad139" x="504.736055" y="105.707492" style="fill: #1f77b4; stroke: #1f77b4"/>
+     <use xlink:href="#m6a3b4ad139" x="515.338218" y="92.409772" style="fill: #1f77b4; stroke: #1f77b4"/>
+     <use xlink:href="#m6a3b4ad139" x="518.742257" y="79.440391" style="fill: #1f77b4; stroke: #1f77b4"/>
+     <use xlink:href="#m6a3b4ad139" x="539.237408" y="69.09772" style="fill: #1f77b4; stroke: #1f77b4"/>
+     <use xlink:href="#m6a3b4ad139" x="563.065681" y="65.485993" style="fill: #1f77b4; stroke: #1f77b4"/>
+     <use xlink:href="#m6a3b4ad139" x="574.979818" y="71.231922" style="fill: #1f77b4; stroke: #1f77b4"/>
+     <use xlink:href="#m6a3b4ad139" x="607.318188" y="65.814332" style="fill: #1f77b4; stroke: #1f77b4"/>
+     <use xlink:href="#m6a3b4ad139" x="615.757368" y="62.366775" style="fill: #1f77b4; stroke: #1f77b4"/>
+     <use xlink:href="#m6a3b4ad139" x="622.636364" y="55.8" style="fill: #1f77b4; stroke: #1f77b4"/>
+    </g>
+   </g>
+   <g id="line2d_40">
+    <path d="M 214.110316 305.829967 
+L 227.714652 254.77329 
+L 239.61106 200.925733 
+L 254.929235 187.135505 
+L 261.737313 171.375244 
+L 263.120204 166.614332 
+L 268.56312 156.271661 
+L 273.651449 159.555049 
+L 309.393859 155.943322 
+L 326.431783 144.451466 
+L 340.03021 150.525733 
+L 353.646366 140.347231 
+L 365.560502 140.511401 
+L 374.0706 138.377199 
+L 384.282717 136.899674 
+L 389.412414 133.944625 
+L 392.792814 138.705537 
+L 401.302912 137.884691 
+L 409.813009 117.856026 
+L 418.358565 114.08013 
+L 465.944194 104.394137 
+L 480.695029 110.796743 
+L 503.406352 116.542671 
+L 504.736055 106.528339 
+L 515.338218 94.872313 
+L 518.742257 82.39544 
+L 525.550335 75.664495 
+L 539.237408 67.784365 
+L 563.065681 64.336808 
+L 574.979818 67.456026 
+L 622.636364 62.202606 
+" clip-path="url(#p84a01929d9)" style="fill: none; stroke: #ff7f0e; stroke-width: 1.5; stroke-linecap: square"/>
+    <defs>
+     <path id="me387f306a2" d="M 0 3 
+C 0.795609 3 1.55874 2.683901 2.12132 2.12132 
+C 2.683901 1.55874 3 0.795609 3 0 
+C 3 -0.795609 2.683901 -1.55874 2.12132 -2.12132 
+C 1.55874 -2.683901 0.795609 -3 0 -3 
+C -0.795609 -3 -1.55874 -2.683901 -2.12132 -2.12132 
+C -2.683901 -1.55874 -3 -0.795609 -3 0 
+C -3 0.795609 -2.683901 1.55874 -2.12132 2.12132 
+C -1.55874 2.683901 -0.795609 3 0 3 
+z
+" style="stroke: #ff7f0e"/>
+    </defs>
+    <g clip-path="url(#p84a01929d9)">
+     <use xlink:href="#me387f306a2" x="214.110316" y="305.829967" style="fill: #ff7f0e; stroke: #ff7f0e"/>
+     <use xlink:href="#me387f306a2" x="227.714652" y="254.77329" style="fill: #ff7f0e; stroke: #ff7f0e"/>
+     <use xlink:href="#me387f306a2" x="239.61106" y="200.925733" style="fill: #ff7f0e; stroke: #ff7f0e"/>
+     <use xlink:href="#me387f306a2" x="254.929235" y="187.135505" style="fill: #ff7f0e; stroke: #ff7f0e"/>
+     <use xlink:href="#me387f306a2" x="261.737313" y="171.375244" style="fill: #ff7f0e; stroke: #ff7f0e"/>
+     <use xlink:href="#me387f306a2" x="263.120204" y="166.614332" style="fill: #ff7f0e; stroke: #ff7f0e"/>
+     <use xlink:href="#me387f306a2" x="268.56312" y="156.271661" style="fill: #ff7f0e; stroke: #ff7f0e"/>
+     <use xlink:href="#me387f306a2" x="273.651449" y="159.555049" style="fill: #ff7f0e; stroke: #ff7f0e"/>
+     <use xlink:href="#me387f306a2" x="309.393859" y="155.943322" style="fill: #ff7f0e; stroke: #ff7f0e"/>
+     <use xlink:href="#me387f306a2" x="326.431783" y="144.451466" style="fill: #ff7f0e; stroke: #ff7f0e"/>
+     <use xlink:href="#me387f306a2" x="340.03021" y="150.525733" style="fill: #ff7f0e; stroke: #ff7f0e"/>
+     <use xlink:href="#me387f306a2" x="353.646366" y="140.347231" style="fill: #ff7f0e; stroke: #ff7f0e"/>
+     <use xlink:href="#me387f306a2" x="365.560502" y="140.511401" style="fill: #ff7f0e; stroke: #ff7f0e"/>
+     <use xlink:href="#me387f306a2" x="374.0706" y="138.377199" style="fill: #ff7f0e; stroke: #ff7f0e"/>
+     <use xlink:href="#me387f306a2" x="384.282717" y="136.899674" style="fill: #ff7f0e; stroke: #ff7f0e"/>
+     <use xlink:href="#me387f306a2" x="389.412414" y="133.944625" style="fill: #ff7f0e; stroke: #ff7f0e"/>
+     <use xlink:href="#me387f306a2" x="392.792814" y="138.705537" style="fill: #ff7f0e; stroke: #ff7f0e"/>
+     <use xlink:href="#me387f306a2" x="401.302912" y="137.884691" style="fill: #ff7f0e; stroke: #ff7f0e"/>
+     <use xlink:href="#me387f306a2" x="409.813009" y="117.856026" style="fill: #ff7f0e; stroke: #ff7f0e"/>
+     <use xlink:href="#me387f306a2" x="418.358565" y="114.08013" style="fill: #ff7f0e; stroke: #ff7f0e"/>
+     <use xlink:href="#me387f306a2" x="465.944194" y="104.394137" style="fill: #ff7f0e; stroke: #ff7f0e"/>
+     <use xlink:href="#me387f306a2" x="480.695029" y="110.796743" style="fill: #ff7f0e; stroke: #ff7f0e"/>
+     <use xlink:href="#me387f306a2" x="503.406352" y="116.542671" style="fill: #ff7f0e; stroke: #ff7f0e"/>
+     <use xlink:href="#me387f306a2" x="504.736055" y="106.528339" style="fill: #ff7f0e; stroke: #ff7f0e"/>
+     <use xlink:href="#me387f306a2" x="515.338218" y="94.872313" style="fill: #ff7f0e; stroke: #ff7f0e"/>
+     <use xlink:href="#me387f306a2" x="518.742257" y="82.39544" style="fill: #ff7f0e; stroke: #ff7f0e"/>
+     <use xlink:href="#me387f306a2" x="525.550335" y="75.664495" style="fill: #ff7f0e; stroke: #ff7f0e"/>
+     <use xlink:href="#me387f306a2" x="539.237408" y="67.784365" style="fill: #ff7f0e; stroke: #ff7f0e"/>
+     <use xlink:href="#me387f306a2" x="563.065681" y="64.336808" style="fill: #ff7f0e; stroke: #ff7f0e"/>
+     <use xlink:href="#me387f306a2" x="574.979818" y="67.456026" style="fill: #ff7f0e; stroke: #ff7f0e"/>
+     <use xlink:href="#me387f306a2" x="622.636364" y="62.202606" style="fill: #ff7f0e; stroke: #ff7f0e"/>
+    </g>
+   </g>
+   <g id="line2d_41">
+    <path d="M 115.363636 303.531596 
+L 125.593483 235.072964 
+L 134.1154 207.985016 
+L 138.748675 165.793485 
+L 144.297968 142.481433 
+L 157.985041 141.003909 
+L 169.899178 122.12443 
+L 210.712187 114.572638 
+L 239.61106 118.841042 
+L 253.298133 109.483388 
+L 254.929235 94.379805 
+L 261.737313 111.45342 
+L 263.120204 98.976547 
+L 273.651449 107.020847 
+L 278.828425 109.483388 
+L 362.227381 90.603909 
+L 392.792814 74.843648 
+" clip-path="url(#p84a01929d9)" style="fill: none; stroke: #2ca02c; stroke-width: 1.5; stroke-linecap: square"/>
+    <defs>
+     <path id="m111d67cfa5" d="M 0 3 
+C 0.795609 3 1.55874 2.683901 2.12132 2.12132 
+C 2.683901 1.55874 3 0.795609 3 0 
+C 3 -0.795609 2.683901 -1.55874 2.12132 -2.12132 
+C 1.55874 -2.683901 0.795609 -3 0 -3 
+C -0.795609 -3 -1.55874 -2.683901 -2.12132 -2.12132 
+C -2.683901 -1.55874 -3 -0.795609 -3 0 
+C -3 0.795609 -2.683901 1.55874 -2.12132 2.12132 
+C -1.55874 2.683901 -0.795609 3 0 3 
+z
+" style="stroke: #2ca02c"/>
+    </defs>
+    <g clip-path="url(#p84a01929d9)">
+     <use xlink:href="#m111d67cfa5" x="115.363636" y="303.531596" style="fill: #2ca02c; stroke: #2ca02c"/>
+     <use xlink:href="#m111d67cfa5" x="125.593483" y="235.072964" style="fill: #2ca02c; stroke: #2ca02c"/>
+     <use xlink:href="#m111d67cfa5" x="134.1154" y="207.985016" style="fill: #2ca02c; stroke: #2ca02c"/>
+     <use xlink:href="#m111d67cfa5" x="138.748675" y="165.793485" style="fill: #2ca02c; stroke: #2ca02c"/>
+     <use xlink:href="#m111d67cfa5" x="144.297968" y="142.481433" style="fill: #2ca02c; stroke: #2ca02c"/>
+     <use xlink:href="#m111d67cfa5" x="157.985041" y="141.003909" style="fill: #2ca02c; stroke: #2ca02c"/>
+     <use xlink:href="#m111d67cfa5" x="169.899178" y="122.12443" style="fill: #2ca02c; stroke: #2ca02c"/>
+     <use xlink:href="#m111d67cfa5" x="210.712187" y="114.572638" style="fill: #2ca02c; stroke: #2ca02c"/>
+     <use xlink:href="#m111d67cfa5" x="239.61106" y="118.841042" style="fill: #2ca02c; stroke: #2ca02c"/>
+     <use xlink:href="#m111d67cfa5" x="253.298133" y="109.483388" style="fill: #2ca02c; stroke: #2ca02c"/>
+     <use xlink:href="#m111d67cfa5" x="254.929235" y="94.379805" style="fill: #2ca02c; stroke: #2ca02c"/>
+     <use xlink:href="#m111d67cfa5" x="261.737313" y="111.45342" style="fill: #2ca02c; stroke: #2ca02c"/>
+     <use xlink:href="#m111d67cfa5" x="263.120204" y="98.976547" style="fill: #2ca02c; stroke: #2ca02c"/>
+     <use xlink:href="#m111d67cfa5" x="273.651449" y="107.020847" style="fill: #2ca02c; stroke: #2ca02c"/>
+     <use xlink:href="#m111d67cfa5" x="278.828425" y="109.483388" style="fill: #2ca02c; stroke: #2ca02c"/>
+     <use xlink:href="#m111d67cfa5" x="362.227381" y="90.603909" style="fill: #2ca02c; stroke: #2ca02c"/>
+     <use xlink:href="#m111d67cfa5" x="392.792814" y="74.843648" style="fill: #2ca02c; stroke: #2ca02c"/>
+    </g>
+   </g>
+   <g id="patch_3">
+    <path d="M 90 320.4 
+L 90 43.2 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 648 320.4 
+L 648 43.2 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 90 320.4 
+L 648 320.4 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 90 43.2 
+L 648 43.2 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_22">
+    <!-- 用户Rating变化对比 -->
+    <g transform="translate(315 37.2) scale(0.12 -0.12)">
+     <defs>
+      <path id="KaiTi-7528" d="M 3225 4275 
+Q 3575 4100 3487 3937 
+Q 3400 3775 3400 3250 
+Q 3675 3300 3775 3300 
+Q 3900 3300 4012 3200 
+Q 4125 3100 3837 3025 
+Q 3550 2950 3400 2900 
+L 3375 2175 
+Q 3775 2275 3937 2287 
+Q 4100 2300 4187 2187 
+Q 4275 2075 4050 2000 
+Q 3825 1925 3375 1800 
+Q 3375 1175 3300 600 
+Q 3225 25 3150 12 
+Q 3075 0 3050 325 
+Q 3025 650 3050 1750 
+Q 2750 1700 2575 1700 
+Q 2425 1700 2237 1775 
+Q 2050 1850 2237 1887 
+Q 2425 1925 3075 2100 
+L 3075 2850 
+Q 2725 2775 2500 2862 
+Q 2275 2950 2450 2987 
+Q 2625 3025 3075 3125 
+Q 3075 3725 3000 4225 
+Q 2500 4175 2100 4125 
+Q 2075 2350 2012 1825 
+Q 1950 1300 1787 750 
+Q 1625 200 1175 -112 
+Q 725 -425 1062 -12 
+Q 1400 400 1575 1212 
+Q 1750 2025 1750 2575 
+L 1750 3600 
+Q 1750 4075 1612 4250 
+Q 1475 4425 1775 4350 
+Q 2075 4275 2575 4350 
+Q 3075 4425 3662 4525 
+Q 4250 4625 4387 4687 
+Q 4525 4750 4775 4637 
+Q 5025 4525 5200 4387 
+Q 5375 4250 5275 4100 
+Q 5175 3950 5150 3725 
+Q 5125 3500 5125 2775 
+Q 5125 2050 5162 1375 
+Q 5200 700 5237 425 
+Q 5275 150 5050 -237 
+Q 4825 -625 4712 -287 
+Q 4600 50 4225 262 
+Q 3850 475 4287 375 
+Q 4725 275 4762 562 
+Q 4800 850 4800 1250 
+Q 4800 1675 4762 2862 
+Q 4725 4050 4575 4225 
+Q 4425 4400 4150 4387 
+Q 3875 4375 3225 4275 
+z
+" transform="scale(0.015625)"/>
+      <path id="KaiTi-6237" d="M 4500 2700 
+Q 4950 2325 4400 2287 
+Q 3850 2250 2425 2050 
+Q 2325 975 2000 412 
+Q 1675 -150 1075 -387 
+Q 475 -625 862 -375 
+Q 1250 -125 1525 237 
+Q 1800 600 1912 1137 
+Q 2025 1675 2075 2412 
+Q 2125 3150 1987 3387 
+Q 1850 3625 2037 3612 
+Q 2225 3600 2362 3537 
+Q 2500 3475 2925 3537 
+Q 3350 3600 3787 3687 
+Q 4225 3775 4337 3862 
+Q 4450 3950 4662 3875 
+Q 4875 3800 5087 3662 
+Q 5300 3525 5000 3337 
+Q 4700 3150 4500 2700 
+z
+M 2425 2275 
+Q 3625 2450 4125 2575 
+Q 4250 3050 4275 3300 
+Q 4300 3550 3925 3487 
+Q 3550 3425 2475 3275 
+Q 2475 2775 2425 2275 
+z
+M 3450 4450 
+Q 3275 4575 3050 4825 
+Q 2825 5075 3162 5037 
+Q 3500 5000 3737 4850 
+Q 3975 4700 3925 4475 
+Q 3875 4250 3750 4300 
+Q 3625 4350 3450 4450 
+z
+" transform="scale(0.015625)"/>
+      <path id="KaiTi-53d8" d="M 3350 700 
+Q 3775 425 4262 237 
+Q 4750 50 5300 -37 
+Q 5850 -125 5850 -175 
+Q 5850 -225 5487 -300 
+Q 5125 -375 4712 -400 
+Q 4300 -425 4000 -200 
+Q 3700 25 3100 450 
+Q 2650 100 2075 -87 
+Q 1500 -275 1125 -262 
+Q 750 -250 1162 -150 
+Q 1575 -50 2050 175 
+Q 2525 400 2800 675 
+Q 2525 900 2250 1075 
+Q 1975 1250 1762 1312 
+Q 1550 1375 1800 1437 
+Q 2050 1500 2287 1337 
+Q 2525 1175 3025 850 
+Q 3350 1225 3475 1562 
+Q 3600 1900 3437 1887 
+Q 3275 1875 2975 1812 
+Q 2675 1750 2400 1675 
+Q 2125 1600 1862 1750 
+Q 1600 1900 1975 1900 
+Q 2375 1900 2900 2012 
+Q 3425 2125 3537 2200 
+Q 3650 2275 3812 2212 
+Q 3975 2150 4125 2025 
+Q 4275 1900 4137 1825 
+Q 4000 1750 3812 1387 
+Q 3625 1025 3350 700 
+z
+M 3500 4050 
+Q 3700 3825 3675 3725 
+Q 3650 3625 3625 3387 
+Q 3600 3150 3600 2875 
+Q 3600 2600 3537 2425 
+Q 3475 2250 3425 2250 
+Q 3375 2250 3300 2400 
+Q 3225 2550 3275 2862 
+Q 3325 3175 3312 3450 
+Q 3300 3725 3175 4000 
+Q 2925 3975 2525 3925 
+Q 2750 3725 2712 3575 
+Q 2675 3425 2662 3112 
+Q 2650 2800 2637 2600 
+Q 2625 2400 2537 2262 
+Q 2450 2125 2362 2362 
+Q 2275 2600 2312 2700 
+Q 2350 2800 2375 3125 
+Q 2400 3450 2325 3875 
+L 1650 3750 
+Q 1425 3725 1187 3875 
+Q 950 4025 1325 4037 
+Q 1700 4050 2700 4175 
+Q 4100 4400 4437 4450 
+Q 4775 4500 5025 4362 
+Q 5275 4225 5175 4162 
+Q 5075 4100 4737 4112 
+Q 4400 4125 3500 4050 
+z
+M 4675 2850 
+Q 4125 3175 4012 3325 
+Q 3900 3475 4387 3425 
+Q 4875 3375 5025 3150 
+Q 5175 2925 5137 2775 
+Q 5100 2625 4675 2850 
+z
+M 1400 3125 
+Q 1550 3300 1687 3475 
+Q 1825 3650 1762 3200 
+Q 1700 2750 1375 2425 
+Q 1050 2100 1062 2387 
+Q 1075 2675 1175 2812 
+Q 1275 2950 1400 3125 
+z
+M 2950 4575 
+Q 2600 4825 2562 4925 
+Q 2525 5025 2862 5012 
+Q 3200 5000 3350 4825 
+Q 3500 4650 3400 4500 
+Q 3300 4350 2950 4575 
+z
+" transform="scale(0.015625)"/>
+      <path id="KaiTi-5316" d="M 3475 2550 
+Q 3775 2850 4112 3287 
+Q 4450 3725 4425 3937 
+Q 4400 4150 4562 4075 
+Q 4725 4000 4887 3812 
+Q 5050 3625 4900 3537 
+Q 4750 3450 4412 3062 
+Q 4075 2675 3475 2100 
+Q 3450 1600 3512 1237 
+Q 3575 875 3837 687 
+Q 4100 500 4662 537 
+Q 5225 575 5437 762 
+Q 5650 950 5750 1437 
+Q 5850 1925 5850 1425 
+Q 5850 950 5950 675 
+Q 6050 400 5637 237 
+Q 5225 75 4512 100 
+Q 3800 125 3525 375 
+Q 3250 625 3200 1037 
+Q 3150 1450 3175 1825 
+Q 2975 1650 2725 1512 
+Q 2475 1375 2250 1312 
+Q 2025 1250 2212 1387 
+Q 2400 1525 2675 1762 
+Q 2950 2000 3175 2275 
+Q 3200 2925 3200 3350 
+Q 3200 3800 3175 4100 
+Q 3150 4400 3025 4625 
+Q 2900 4850 3125 4800 
+Q 3350 4750 3537 4637 
+Q 3725 4525 3650 4375 
+Q 3575 4225 3537 3650 
+Q 3500 3075 3475 2550 
+z
+M 1600 3100 
+Q 1975 2875 1925 2525 
+Q 1875 2175 1887 1400 
+Q 1900 625 1800 125 
+Q 1700 -375 1537 -12 
+Q 1375 350 1475 587 
+Q 1575 825 1612 1312 
+Q 1650 1800 1637 2350 
+Q 1625 2900 1475 2950 
+Q 1075 2350 612 2000 
+Q 150 1650 525 2087 
+Q 900 2525 1237 3137 
+Q 1575 3750 1687 4112 
+Q 1800 4475 1750 4675 
+Q 1700 4875 1875 4812 
+Q 2050 4750 2225 4587 
+Q 2400 4425 2275 4312 
+Q 2150 4200 1975 3837 
+Q 1800 3475 1600 3100 
+z
+" transform="scale(0.015625)"/>
+      <path id="KaiTi-5bf9" d="M 4725 3350 
+Q 5250 3425 5487 3487 
+Q 5725 3550 5925 3362 
+Q 6125 3175 5762 3150 
+Q 5400 3125 4725 3050 
+Q 4750 1425 4787 900 
+Q 4825 375 4725 137 
+Q 4625 -100 4450 -262 
+Q 4275 -425 4200 -162 
+Q 4125 100 3812 387 
+Q 3500 675 3800 575 
+Q 4100 475 4250 475 
+Q 4400 475 4400 1025 
+L 4400 3000 
+Q 4075 2975 3787 2937 
+Q 3500 2900 3287 2850 
+Q 3075 2800 2837 2962 
+Q 2600 3125 2875 3137 
+Q 3150 3150 3500 3187 
+Q 3850 3225 4400 3300 
+Q 4400 3700 4375 4225 
+Q 4350 4750 4175 4987 
+Q 4000 5225 4525 5025 
+Q 4900 4875 4837 4725 
+Q 4775 4575 4750 4250 
+Q 4725 3925 4725 3350 
+z
+M 2150 2125 
+Q 2550 1650 2662 1425 
+Q 2775 1200 2687 975 
+Q 2600 750 2375 1100 
+Q 2150 1450 1950 1750 
+Q 1600 1250 1237 962 
+Q 875 675 537 550 
+Q 200 425 500 662 
+Q 800 900 1112 1212 
+Q 1425 1525 1700 2025 
+Q 1350 2425 1212 2587 
+Q 1075 2750 862 2975 
+Q 650 3200 1000 3000 
+Q 1350 2800 1850 2350 
+Q 1950 2575 2075 3075 
+Q 2200 3575 2150 3637 
+Q 2100 3700 2025 3700 
+Q 1975 3700 1712 3625 
+Q 1450 3550 1225 3487 
+Q 1000 3425 787 3550 
+Q 575 3675 887 3687 
+Q 1200 3700 1575 3825 
+Q 1950 3950 2075 4050 
+Q 2200 4150 2375 4087 
+Q 2550 4025 2687 3925 
+Q 2825 3825 2712 3750 
+Q 2600 3675 2537 3450 
+Q 2475 3225 2362 2825 
+Q 2250 2425 2150 2125 
+z
+M 3050 2250 
+Q 2900 2525 3150 2450 
+Q 3400 2375 3537 2275 
+Q 3675 2175 3700 2000 
+Q 3725 1825 3650 1687 
+Q 3575 1550 3400 1775 
+Q 3225 2000 3050 2250 
+z
+" transform="scale(0.015625)"/>
+      <path id="KaiTi-6bd4" d="M 3525 2700 
+Q 3875 2850 4200 3100 
+Q 4525 3350 4587 3487 
+Q 4650 3625 4650 3750 
+Q 4650 3900 5087 3637 
+Q 5525 3375 5237 3250 
+Q 4950 3125 4525 2925 
+Q 4100 2725 3500 2450 
+Q 3400 1300 3575 937 
+Q 3750 575 4325 600 
+Q 4900 625 5137 762 
+Q 5375 900 5425 1162 
+Q 5475 1425 5500 1725 
+Q 5525 2025 5625 1525 
+Q 5725 1025 5862 825 
+Q 6000 625 5675 425 
+Q 5350 225 4850 175 
+Q 4350 125 3937 225 
+Q 3525 325 3375 587 
+Q 3225 850 3200 1225 
+Q 3175 1600 3187 2187 
+Q 3200 2775 3200 3500 
+Q 3200 4250 3175 4400 
+Q 3150 4550 3075 4687 
+Q 3000 4825 3250 4762 
+Q 3500 4700 3675 4587 
+Q 3850 4475 3712 4312 
+Q 3575 4150 3525 2700 
+z
+M 1525 2500 
+Q 1825 2575 2175 2737 
+Q 2525 2900 2662 2750 
+Q 2800 2600 2337 2412 
+Q 1875 2225 1525 2300 
+Q 1475 1550 1462 1275 
+Q 1450 1000 1475 962 
+Q 1500 925 1662 1012 
+Q 1825 1100 2275 1325 
+Q 2725 1550 2612 1412 
+Q 2500 1275 1950 837 
+Q 1400 400 1262 200 
+Q 1125 0 1012 100 
+Q 900 200 862 375 
+Q 825 550 887 637 
+Q 950 725 1062 875 
+Q 1175 1025 1200 2225 
+Q 1225 3425 1062 3650 
+Q 900 3875 1100 3875 
+Q 1300 3875 1512 3750 
+Q 1725 3625 1637 3450 
+Q 1550 3275 1525 2500 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#KaiTi-7528"/>
+     <use xlink:href="#KaiTi-6237" transform="translate(100 0)"/>
+     <use xlink:href="#KaiTi-52" transform="translate(200 0)"/>
+     <use xlink:href="#KaiTi-61" transform="translate(250 0)"/>
+     <use xlink:href="#KaiTi-74" transform="translate(300 0)"/>
+     <use xlink:href="#KaiTi-69" transform="translate(350 0)"/>
+     <use xlink:href="#KaiTi-6e" transform="translate(400 0)"/>
+     <use xlink:href="#KaiTi-67" transform="translate(450 0)"/>
+     <use xlink:href="#KaiTi-53d8" transform="translate(500 0)"/>
+     <use xlink:href="#KaiTi-5316" transform="translate(600 0)"/>
+     <use xlink:href="#KaiTi-5bf9" transform="translate(700 0)"/>
+     <use xlink:href="#KaiTi-6bd4" transform="translate(800 0)"/>
+    </g>
+   </g>
+   <g id="legend_1">
+    <g id="patch_7">
+     <path d="M 97 91.028125 
+L 184 91.028125 
+Q 186 91.028125 186 89.028125 
+L 186 50.2 
+Q 186 48.2 184 48.2 
+L 97 48.2 
+Q 95 48.2 95 50.2 
+L 95 89.028125 
+Q 95 91.028125 97 91.028125 
+z
+" style="fill: #ffffff; opacity: 0.8; stroke: #cccccc; stroke-linejoin: miter"/>
+    </g>
+    <g id="line2d_42">
+     <path d="M 99 55.7 
+L 109 55.7 
+L 119 55.7 
+" style="fill: none; stroke: #1f77b4; stroke-width: 1.5; stroke-linecap: square"/>
+     <g>
+      <use xlink:href="#m6a3b4ad139" x="109" y="55.7" style="fill: #1f77b4; stroke: #1f77b4"/>
+     </g>
+    </g>
+    <g id="text_23">
+     <!-- Jiangnan111 -->
+     <g transform="translate(127 59.2) scale(0.1 -0.1)">
+      <defs>
+       <path id="KaiTi-4a" d="M 2800 1550 
+Q 2800 775 2462 425 
+Q 2125 75 1550 75 
+Q 1025 75 675 412 
+Q 325 750 325 1500 
+L 325 1775 
+L 900 1775 
+L 900 1425 
+Q 900 975 1087 787 
+Q 1275 600 1525 600 
+Q 1875 600 2050 800 
+Q 2225 1000 2225 1525 
+L 2225 4400 
+L 2800 4400 
+L 2800 1550 
+z
+" transform="scale(0.015625)"/>
+      </defs>
+      <use xlink:href="#KaiTi-4a"/>
+      <use xlink:href="#KaiTi-69" transform="translate(50 0)"/>
+      <use xlink:href="#KaiTi-61" transform="translate(100 0)"/>
+      <use xlink:href="#KaiTi-6e" transform="translate(150 0)"/>
+      <use xlink:href="#KaiTi-67" transform="translate(200 0)"/>
+      <use xlink:href="#KaiTi-6e" transform="translate(250 0)"/>
+      <use xlink:href="#KaiTi-61" transform="translate(300 0)"/>
+      <use xlink:href="#KaiTi-6e" transform="translate(350 0)"/>
+      <use xlink:href="#KaiTi-31" transform="translate(400 0)"/>
+      <use xlink:href="#KaiTi-31" transform="translate(450 0)"/>
+      <use xlink:href="#KaiTi-31" transform="translate(500 0)"/>
+     </g>
+    </g>
+    <g id="line2d_43">
+     <path d="M 99 68.95 
+L 109 68.95 
+L 119 68.95 
+" style="fill: none; stroke: #ff7f0e; stroke-width: 1.5; stroke-linecap: square"/>
+     <g>
+      <use xlink:href="#me387f306a2" x="109" y="68.95" style="fill: #ff7f0e; stroke: #ff7f0e"/>
+     </g>
+    </g>
+    <g id="text_24">
+     <!-- FXLY_awa -->
+     <g transform="translate(127 72.45) scale(0.1 -0.1)">
+      <defs>
+       <path id="KaiTi-46" d="M 2925 3925 
+L 875 3925 
+L 875 2525 
+L 2425 2525 
+L 2425 2050 
+L 875 2050 
+L 875 125 
+L 300 125 
+L 300 4400 
+L 2925 4400 
+L 2925 3925 
+z
+" transform="scale(0.015625)"/>
+       <path id="KaiTi-58" d="M 3000 125 
+L 2400 125 
+L 1550 1875 
+L 700 125 
+L 100 125 
+L 1275 2375 
+L 225 4400 
+L 825 4400 
+L 1550 2850 
+L 2275 4400 
+L 2875 4400 
+L 1825 2375 
+L 3000 125 
+z
+" transform="scale(0.015625)"/>
+       <path id="KaiTi-4c" d="M 2900 125 
+L 300 125 
+L 300 4400 
+L 875 4400 
+L 875 600 
+L 2900 600 
+L 2900 125 
+z
+" transform="scale(0.015625)"/>
+       <path id="KaiTi-5f" d="M 3150 -850 
+L 0 -850 
+L 0 -550 
+L 3150 -550 
+L 3150 -850 
+z
+" transform="scale(0.015625)"/>
+       <path id="KaiTi-77" d="M 3075 2925 
+L 2450 75 
+L 1975 75 
+L 1575 2250 
+L 1525 2250 
+L 1125 75 
+L 650 75 
+L 25 2925 
+L 550 2925 
+L 875 1050 
+L 925 1050 
+L 1275 2925 
+L 1825 2925 
+L 2175 1050 
+L 2225 1050 
+L 2550 2925 
+L 3075 2925 
+z
+" transform="scale(0.015625)"/>
+      </defs>
+      <use xlink:href="#KaiTi-46"/>
+      <use xlink:href="#KaiTi-58" transform="translate(50 0)"/>
+      <use xlink:href="#KaiTi-4c" transform="translate(100 0)"/>
+      <use xlink:href="#KaiTi-59" transform="translate(150 0)"/>
+      <use xlink:href="#KaiTi-5f" transform="translate(200 0)"/>
+      <use xlink:href="#KaiTi-61" transform="translate(250 0)"/>
+      <use xlink:href="#KaiTi-77" transform="translate(300 0)"/>
+      <use xlink:href="#KaiTi-61" transform="translate(350 0)"/>
+     </g>
+    </g>
+    <g id="line2d_44">
+     <path d="M 99 82.278125 
+L 109 82.278125 
+L 119 82.278125 
+" style="fill: none; stroke: #2ca02c; stroke-width: 1.5; stroke-linecap: square"/>
+     <g>
+      <use xlink:href="#m111d67cfa5" x="109" y="82.278125" style="fill: #2ca02c; stroke: #2ca02c"/>
+     </g>
+    </g>
+    <g id="text_25">
+     <!-- k1nsom -->
+     <g transform="translate(127 85.778125) scale(0.1 -0.1)">
+      <defs>
+       <path id="KaiTi-6b" d="M 2925 125 
+L 2350 125 
+L 1450 1650 
+L 875 1100 
+L 875 125 
+L 375 125 
+L 375 4400 
+L 875 4400 
+L 875 1675 
+L 2125 2925 
+L 2750 2925 
+L 1775 1975 
+L 2925 125 
+z
+" transform="scale(0.015625)"/>
+       <path id="KaiTi-73" d="M 2750 900 
+Q 2750 500 2437 287 
+Q 2125 75 1650 75 
+Q 1050 75 725 312 
+Q 400 550 400 1000 
+L 900 1000 
+Q 900 700 1112 600 
+Q 1325 500 1625 500 
+Q 1925 500 2075 612 
+Q 2225 725 2225 900 
+Q 2225 1025 2100 1150 
+Q 1975 1275 1475 1350 
+Q 900 1425 687 1637 
+Q 475 1850 475 2200 
+Q 475 2500 762 2737 
+Q 1050 2975 1600 2975 
+Q 2100 2975 2387 2750 
+Q 2675 2525 2675 2150 
+L 2175 2150 
+Q 2175 2375 2012 2462 
+Q 1850 2550 1600 2550 
+Q 1275 2550 1137 2437 
+Q 1000 2325 1000 2175 
+Q 1000 2000 1125 1900 
+Q 1250 1800 1650 1750 
+Q 2300 1650 2525 1437 
+Q 2750 1225 2750 900 
+z
+" transform="scale(0.015625)"/>
+       <path id="KaiTi-6f" d="M 2925 1525 
+Q 2925 875 2525 475 
+Q 2125 75 1575 75 
+Q 1025 75 625 475 
+Q 225 875 225 1525 
+Q 225 2175 625 2575 
+Q 1025 2975 1575 2975 
+Q 2125 2975 2525 2575 
+Q 2925 2175 2925 1525 
+z
+M 2375 1525 
+Q 2375 2025 2125 2275 
+Q 1875 2525 1575 2525 
+Q 1275 2525 1025 2275 
+Q 775 2025 775 1525 
+Q 775 1025 1025 775 
+Q 1275 525 1575 525 
+Q 1875 525 2125 775 
+Q 2375 1025 2375 1525 
+z
+" transform="scale(0.015625)"/>
+       <path id="KaiTi-6d" d="M 3050 125 
+L 2550 125 
+L 2550 2150 
+Q 2550 2300 2500 2400 
+Q 2450 2500 2300 2500 
+Q 2125 2500 1975 2312 
+Q 1825 2125 1825 1825 
+L 1825 125 
+L 1325 125 
+L 1325 2150 
+Q 1325 2300 1275 2400 
+Q 1225 2500 1075 2500 
+Q 900 2500 750 2312 
+Q 600 2125 600 1825 
+L 600 125 
+L 100 125 
+L 100 2925 
+L 600 2925 
+L 600 2550 
+Q 725 2750 900 2862 
+Q 1075 2975 1275 2975 
+Q 1475 2975 1612 2862 
+Q 1750 2750 1800 2550 
+Q 1925 2750 2087 2862 
+Q 2250 2975 2450 2975 
+Q 2750 2975 2900 2812 
+Q 3050 2650 3050 2350 
+L 3050 125 
+z
+" transform="scale(0.015625)"/>
+      </defs>
+      <use xlink:href="#KaiTi-6b"/>
+      <use xlink:href="#KaiTi-31" transform="translate(50 0)"/>
+      <use xlink:href="#KaiTi-6e" transform="translate(100 0)"/>
+      <use xlink:href="#KaiTi-73" transform="translate(150 0)"/>
+      <use xlink:href="#KaiTi-6f" transform="translate(200 0)"/>
+      <use xlink:href="#KaiTi-6d" transform="translate(250 0)"/>
+     </g>
+    </g>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p84a01929d9">
+   <rect x="90" y="43.2" width="558" height="277.2"/>
+  </clipPath>
+ </defs>
+</svg>
