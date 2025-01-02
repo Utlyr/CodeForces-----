@@ -26,6 +26,7 @@
     getComment ：获取特定blog评论数据
     _commentEmotionAna ：评论情感分析可视化
     showHackOfContest ：展示hack数据
+    showHackData ：展示Hack攻击图
 3.运行环境：
     解释器：
     Python 3.11.9
