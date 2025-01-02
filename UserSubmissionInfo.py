@@ -178,4 +178,4 @@ def ShowSubmission(username:str,days:int):
     fig.savefig("./OutPut/User_{}_Submission.svg".format(username))
 
 #print(time.time())
-ShowSubmission(user_name,30)
+#ShowSubmission(user_name,30)

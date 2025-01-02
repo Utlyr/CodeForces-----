@@ -138,4 +138,4 @@ def ShowInfo(username:str):
     fig.savefig("./OutPut/User_{}_Info.svg".format(username))
 
 #print(time.time())
-ShowInfo("Jiangnan111")
+#ShowInfo("Jiangnan111")

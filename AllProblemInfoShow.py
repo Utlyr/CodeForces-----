@@ -23,6 +23,8 @@ def getProData():#获取问题集信息
         print("数据为空")
         return
     columns = list(data['problems'][0].keys())
+    if 'rating' not in columns:
+        columns.append('rating')
     with open(filename1+".csv",'w',encoding='utf-8',newline='') as f:
         writer = csv.writer(f)
         writer.writerow(columns)
@@ -90,7 +92,7 @@ def showInfoProblemLabels(ax:matplotlib.axes._axes.Axes):#可视化不同标签�
     ax1.tick_params(axis='y',labelcolor='pink')
     plt.savefig("./OutPut/ProblemLabels.svg")
 
-
+#getProData()
 
 '''fig = plt.figure(figsize=(10,5))
 ax = plt.subplot(111)
